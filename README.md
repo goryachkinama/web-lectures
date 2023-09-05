@@ -1,6 +1,6 @@
 # Лекции по веб-разработке
 
-## Программа курса "Системное программирование" для групп 007в, 007г
+## [Программа курса "Системное программирование" для групп 007в, 007г](program-2023.md)
 
 ## Для начинающих: Введение во фронтенд (полугодовой)
 * [HTML](https://dmitryweiner.github.io/web-lectures/Basic%20-%20HTML.html)
@@ -16,5 +16,6 @@
 * [Node.js](https://dmitryweiner.github.io/web-lectures/Basic%20-%20Nodejs.html)
 * [NPM](https://dmitryweiner.github.io/web-lectures/Basic%20-%20NPM.html)
 * [Webpack](https://dmitryweiner.github.io/web-lectures/Basic%20-%20Webpack.html#/)
+* Введение во фреймворк React
 * [ESLint + Prettier + Husky](https://dmitryweiner.github.io/web-lectures/EslintPrettierHusky.html)
 * [Git](https://dmitryweiner.github.io/web-lectures/Basic%20-%20Git.html)
