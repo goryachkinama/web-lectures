@@ -8,7 +8,7 @@
 * [NPM](https://dmitryweiner.github.io/web-lectures/Basic%20-%20NPM.html)
 * [Git](https://dmitryweiner.github.io/web-lectures/Basic%20-%20Git.html)
 * [Webpack](https://dmitryweiner.github.io/web-lectures/Basic%20-%20Webpack.html#/)
-* React
+* Введение во фреймворк React
 * [ESLint + Prettier + Husky](https://github.com/dmitryweiner/web-lectures/raw/main/old/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%20eslint%20prettier%20husky.pptx)
 
 # Лабораторные
