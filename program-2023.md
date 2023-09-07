@@ -20,7 +20,7 @@
 * В процессе можно пользоваться [презентацией](https://dmitryweiner.github.io/web-lectures/Basic%20-%20HTML.html#/).
 * Результат закоммитить на гитхаб и прислать ссылку на проект.
 
-![html](html_default.png)
+![html](html_basic.png)
 
 Опционально:
 * Добавить футер (линия и Copyright ©), который пригодится при работе со стилями
@@ -29,7 +29,7 @@
 
 Итог будет выглядеть вот так:
 
-![html](html_extended.png)
+![html](html_advanced.png)
 
 <hr/>
 
