@@ -28,6 +28,7 @@
 * [JavaScript: функции](src/lab_js_func.md)
 * [JavaScript: массивы](src/lab_js_arr.md)
 * [JavaScript: асинхронность](src/lab_js_async.md)
+* [JavaScript: генераторы](src/lab_js_maths.md)
 * [JavaScript: решение задач](src/lab_js.md)
 * [JavaScript: оживляем todo-list](src/lab_js_todo_list.md)
 * [JavaScript: фильтрация и сортировка в todo-list](src/lab_js_filter.md)
