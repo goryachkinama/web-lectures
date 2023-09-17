@@ -20,7 +20,7 @@
 * В процессе можно пользоваться [презентацией](https://dmitryweiner.github.io/web-lectures/Basic%20-%20HTML.html#/).
 * Результат закоммитить на гитхаб и прислать ссылку на проект.
 
-![html](html_basic.png)
+![html](src/lab_html/html_basic.png)
 
 Опционально:
 * Добавить футер (линия и Copyright ©), который пригодится при работе со стилями
@@ -29,9 +29,9 @@
 
 Итог будет выглядеть вот так:
 
-![html](html_advanced.png)
+![html](src/lab_html/html_advanced.png)
 
-<hr/>
+---
 
 ### 2. CSS
 
@@ -44,7 +44,7 @@
 * В процессе можно пользоваться [презентацией](https://dmitryweiner.github.io/web-lectures/Basic%20-%20CSS.html#/).
 * Результат коммитить в тот же проект, что и предыдущее задание.
 
-![css](css_basic.png)
+![css](src/lab_css/css_basic.png)
 
   Опционально:
 * Использовать декоративный шрифт для заголовка.
@@ -56,9 +56,9 @@
 
 Итог будет выглядеть вот так:
 
-![css](css_advanced.png)
+![css](src/lab_css/css_advanced.png)
 
-<hr/>
+---
 
 ### 3. Оживляем список дел: прикручиваем JS
 * Добавить возможность добавления новых элементов.

@@ -19,3 +19,12 @@
 * Введение во фреймворк React
 * [ESLint + Prettier + Husky](https://dmitryweiner.github.io/web-lectures/EslintPrettierHusky.html)
 * [Git](https://dmitryweiner.github.io/web-lectures/Basic%20-%20Git.html)
+
+## Лабораторные
+
+* [HTML](src/lab_html/html.md)
+* [CSS](src/lab_css/css.md)
+* JavaScript: введение в синтаксис
+* JavaScript: функции
+* JavaScript: массивы
+* JavaScript: асинхронность
