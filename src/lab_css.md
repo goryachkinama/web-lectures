@@ -11,7 +11,7 @@
 * В процессе можно пользоваться [презентацией](https://dmitryweiner.github.io/web-lectures/Basic%20-%20CSS.html#/).
 * Результат коммитить в тот же проект, что и предыдущее задание.
 
-![css](css_basic.png)
+![css](assets/lab_css/css_basic.png)
 
 ---
 
@@ -26,6 +26,6 @@
 
 Итог будет выглядеть вот так:
 
-![css](css_advanced.png)
+![css](assets/lab_css/css_advanced.png)
 
 ---

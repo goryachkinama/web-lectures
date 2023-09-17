@@ -1,8 +1,15 @@
 # Группы 007в, 007г
 # Программа курса
+
 * [HTML](https://dmitryweiner.github.io/web-lectures/Basic%20-%20HTML.html)
 * [CSS](https://dmitryweiner.github.io/web-lectures/Basic%20-%20CSS.html)
 * [JavaScript](https://dmitryweiner.github.io/web-lectures/Basic%20-%20JS.html)
+    * [Введение в язык JavaScript. Основы языка: синтаксис, управляющие конструкции.](https://dmitryweiner.github.io/web-lectures/JS_part1.html)
+    * [Функции. Rest...spread.](https://dmitryweiner.github.io/web-lectures/JS_part2.html)
+    * [Массивы.](https://dmitryweiner.github.io/web-lectures/JS_part3.html)
+    * [Работа с DOM. События.](https://dmitryweiner.github.io/web-lectures/JS_part4.html)
+    * [Асинхронный код. Обработка ошибок. HTTP-запросы.](https://dmitryweiner.github.io/web-lectures/JS_part5.html)
+    * [Map, Set. Даты. Работа с устройствами.](https://dmitryweiner.github.io/web-lectures/JS_part6.html)
 * [TypeScript](https://dmitryweiner.github.io/web-lectures/Basic%20-%20TypeScript.html)
 * [Node.js](https://dmitryweiner.github.io/web-lectures/Basic%20-%20Nodejs.html)
 * [NPM](https://dmitryweiner.github.io/web-lectures/Basic%20-%20NPM.html)
@@ -12,6 +19,7 @@
 * [ESLint + Prettier + Husky](https://github.com/dmitryweiner/web-lectures/raw/main/old/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%20eslint%20prettier%20husky.pptx)
 
 # Лабораторные
+
 ### 1. HTML
 
 * Сверстать заготовку (некликабельный макет) будущего веб-приложения.
@@ -20,7 +28,7 @@
 * В процессе можно пользоваться [презентацией](https://dmitryweiner.github.io/web-lectures/Basic%20-%20HTML.html#/).
 * Результат закоммитить на гитхаб и прислать ссылку на проект.
 
-![html](src/lab_html/html_basic.png)
+![html](src/assets/lab_html/html_basic.png)
 
 Опционально:
 * Добавить футер (линия и Copyright ©), который пригодится при работе со стилями
@@ -29,7 +37,7 @@
 
 Итог будет выглядеть вот так:
 
-![html](src/lab_html/html_advanced.png)
+![html](src/assets/lab_html/html_advanced.png)
 
 ---
 
@@ -44,7 +52,7 @@
 * В процессе можно пользоваться [презентацией](https://dmitryweiner.github.io/web-lectures/Basic%20-%20CSS.html#/).
 * Результат коммитить в тот же проект, что и предыдущее задание.
 
-![css](src/lab_css/css_basic.png)
+![css](src/assets/lab_css/css_basic.png)
 
   Опционально:
 * Использовать декоративный шрифт для заголовка.
@@ -56,17 +64,18 @@
 
 Итог будет выглядеть вот так:
 
-![css](src/lab_css/css_advanced.png)
+![css](src/assets/lab_css/css_advanced.png)
 
 ---
 
 ### 3. Оживляем список дел: прикручиваем JS
-* Добавить возможность добавления новых элементов.
-* Добавить возможность удаления элементов.
-* Построить оптимальную архитектуру: разделить отображение элементов и хранение элементов.
-* _Задание со звёздочкой:_ Сохранить элементы в [localstorage](https://learn.javascript.ru/localstorage).
 
-<hr/>
+* Реализовать возможность добавления новых элементов.
+* Реализовать возможность удаления элементов.
+* Построить оптимальную архитектуру: разделить отображение элементов и хранение элементов.
+* Опционально: Сохранить элементы в [localstorage](https://learn.javascript.ru/localstorage).
+
+---
 
 ### 4. Фильтрация и сортировка элементов
 
@@ -76,5 +85,5 @@
 * Сделать фильтрацию списка в соответствии с выбранным режимом.
 * Добавить возможность сортировки по дате создания
 
-<hr/>
+---
 

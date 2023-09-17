@@ -8,7 +8,7 @@
 * В процессе можно пользоваться [презентацией](https://dmitryweiner.github.io/web-lectures/Basic%20-%20HTML.html#/).
 * Результат закоммитить на гитхаб и прислать ссылку на проект.
 
-![html](html_basic.png)
+![html](assets/lab_html/html_basic.png)
 
 ---
 
@@ -20,6 +20,6 @@
 
 Итог будет выглядеть вот так:
 
-![html](html_advanced.png)
+![html](assets/lab_html/html_advanced.png)
 
 ---
