@@ -29,8 +29,8 @@
 * 5.JavaScript: [асинхронность](src/lab_js_async.md), [решение задач](src/lab_js.md)
 * [6. JavaScript: оживляем todo-list](src/lab_js_todo_list.md)
 * [7. JavaScript: фильтрация и сортировка в todo-list](src/lab_js_filter.md)
-* 8. JavaScript: задачи про [таймер](src/lab_timer.md) и [конвертер](src/lab_convert.md)
+* 8.JavaScript: задачи про [таймер](src/lab_timer.md) и [конвертер](src/lab_convert.md)
 * [9. TypeScript](src/lab_ts.md)
 * [10. NodeJS](src/lab_nodejs.md)
-* 11. Webpack
-* 12. React
+* 11.Webpack
+* 12.React
