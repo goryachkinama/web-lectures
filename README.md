@@ -22,16 +22,15 @@
 
 ## Лабораторные
 
-* [HTML](src/lab_html.md)
-* [CSS](src/lab_css.md)
-* [JavaScript: введение в синтаксис](src/lab_js_about.md)
-* [JavaScript: функции](src/lab_js_func.md)
-* [JavaScript: массивы](src/lab_js_arr.md)
-* [JavaScript: асинхронность](src/lab_js_async.md)
-* [JavaScript: генераторы](src/lab_js_maths.md)
-* [JavaScript: решение задач](src/lab_js.md)
-* [JavaScript: оживляем todo-list](src/lab_js_todo_list.md)
-* [JavaScript: фильтрация и сортировка в todo-list](src/lab_js_filter.md)
-* JavaScript: задачи про [таймер](src/lab_timer.md) и [конвертер](src/lab_convert.md)
-* [TypeScript](src/lab_ts.md)
-* [NodeJS](src/lab_nodejs.md)
+* [1. HTML](src/lab_html.md)
+* [2. CSS](src/lab_css.md)
+* 3. JavaScript: [введение в синтаксис](src/lab_js_about.md), [функции](src/lab_js_func.md)
+* 4. JavaScript: [массивы](src/lab_js_arr.md), [генераторы](src/lab_js_maths.md)
+* 5. JavaScript: [асинхронность](src/lab_js_async.md), [решение задач](src/lab_js.md)
+* [6. JavaScript: оживляем todo-list](src/lab_js_todo_list.md)
+* [7. JavaScript: фильтрация и сортировка в todo-list](src/lab_js_filter.md)
+* 8. JavaScript: задачи про [таймер](src/lab_timer.md) и [конвертер](src/lab_convert.md)
+* [9. TypeScript](src/lab_ts.md)
+* [10. NodeJS](src/lab_nodejs.md)
+* 11. Webpack
+* 12. React
