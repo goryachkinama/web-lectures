@@ -20,6 +20,7 @@
 * [ESLint + Prettier + Husky](https://dmitryweiner.github.io/web-lectures/EslintPrettierHusky.html)
 * [Git](https://dmitryweiner.github.io/web-lectures/Basic%20-%20Git.html)
 
+
 ## Лабораторные
 
 * [1. HTML](src/lab_html.md)
@@ -32,5 +33,13 @@
 * 8.JavaScript: задачи про [таймер](src/lab_timer.md) и [конвертер](src/lab_convert.md)
 * [9. TypeScript](src/lab_ts.md)
 * [10. NodeJS](src/lab_nodejs.md)
-* 11.Webpack
-* 12.React
+* 11. Webpack
+* 12. React
+
+
+## Для тех, кому скучно, но интересно
+
+* [Форум](https://github.com/dmitryweiner/web-lectures/blob/main/laba.md)
+* [Работа с API](src/api.md)
+* [Тестовое задание на фронта](src/test.md)
+* [Сохранение в ПДФ](src/pdf.md)
