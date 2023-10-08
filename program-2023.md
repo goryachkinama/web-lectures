@@ -10,13 +10,13 @@
     * [Работа с DOM. События.](https://dmitryweiner.github.io/web-lectures/JS_part4.html)
     * [Асинхронный код. Обработка ошибок. HTTP-запросы.](https://dmitryweiner.github.io/web-lectures/JS_part5.html)
     * [Map, Set. Даты. Работа с устройствами.](https://dmitryweiner.github.io/web-lectures/JS_part6.html)
-* [TypeScript](https://dmitryweiner.github.io/web-lectures/Basic%20-%20TypeScript.html)
 * [Node.js](https://dmitryweiner.github.io/web-lectures/Basic%20-%20Nodejs.html)
 * [NPM](https://dmitryweiner.github.io/web-lectures/Basic%20-%20NPM.html)
-* [Git](https://dmitryweiner.github.io/web-lectures/Basic%20-%20Git.html)
 * [Webpack](https://dmitryweiner.github.io/web-lectures/Basic%20-%20Webpack.html#/)
+* [TypeScript](https://dmitryweiner.github.io/web-lectures/Basic%20-%20TypeScript.html)
 * Введение во фреймворк React
 * [ESLint + Prettier + Husky](https://github.com/dmitryweiner/web-lectures/raw/main/old/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%20eslint%20prettier%20husky.pptx)
+* [Git](https://dmitryweiner.github.io/web-lectures/Basic%20-%20Git.html)
 
 # Лабораторные
 
@@ -79,7 +79,7 @@
 
 ### 4. Фильтрация и сортировка элементов
 
-![filter](src/assets/programs/filter.png)
+![filter](src/assets/lab_todo_js/filter.png)
 
 * Сделать нажимаемыми ссылки внизу (нажимаешь, она становится жирной). Ссылки определяют режим фильтрации (все, сделанные, не сделанные).
 * Сделать фильтрацию списка в соответствии с выбранным режимом.

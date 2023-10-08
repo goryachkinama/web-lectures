@@ -12,10 +12,10 @@
   * [Map, Set. Даты. Работа с устройствами.](https://dmitryweiner.github.io/web-lectures/JS_part6.html)
   * [Работа с DOM. События.](https://dmitryweiner.github.io/web-lectures/JS_part4.html)
   * [Асинхронный код. Обработка ошибок. HTTP-запросы.](https://dmitryweiner.github.io/web-lectures/JS_part5.html)
-* [TypeScript](https://dmitryweiner.github.io/web-lectures/Basic%20-%20TypeScript.html)
 * [Node.js](https://dmitryweiner.github.io/web-lectures/Basic%20-%20Nodejs.html)
 * [NPM](https://dmitryweiner.github.io/web-lectures/Basic%20-%20NPM.html)
 * [Webpack](https://dmitryweiner.github.io/web-lectures/Basic%20-%20Webpack.html#/)
+* [TypeScript](https://dmitryweiner.github.io/web-lectures/Basic%20-%20TypeScript.html)
 * Введение во фреймворк React
 * [ESLint + Prettier + Husky](https://dmitryweiner.github.io/web-lectures/EslintPrettierHusky.html)
 * [Git](https://dmitryweiner.github.io/web-lectures/Basic%20-%20Git.html)
@@ -23,17 +23,17 @@
 
 ## Лабораторные
 
-* [1. HTML](src/lab_html.md)
-* [2. CSS](src/lab_css.md)
-* 3.JavaScript: [введение в синтаксис](src/lab_js_about.md), [функции](src/lab_js_func.md)
-* 4.JavaScript: [массивы](src/lab_js_arr.md), [генераторы](src/lab_js_maths.md)
-* 5.JavaScript: [асинхронность](src/lab_js_async.md), [решение задач](src/lab_js.md)
-* [6. JavaScript: оживляем todo-list](src/lab_js_todo_list.md)
-* [7. JavaScript: фильтрация и сортировка в todo-list](src/lab_js_filter.md)
-* [8. TypeScript](src/lab_ts.md)
-* [9. NodeJS](src/lab_nodejs.md)
-* 10. Webpack
-* 11. React
+1. [HTML](src/lab_html.md)
+2. [CSS](src/lab_css.md)
+3. JavaScript: [введение в синтаксис](src/lab_js_about.md), [функции](src/lab_js_func.md)
+4. JavaScript: [массивы](src/lab_js_arr.md), [генераторы](src/lab_js_maths.md)
+5. JavaScript: [асинхронность](src/lab_js_async.md), [решение задач](src/lab_js.md)
+6. [JavaScript: оживляем todo-list](src/lab_js_todo_list.md)
+7. [JavaScript: фильтрация и сортировка в todo-list](src/lab_js_filter.md)
+8. [NodeJS](src/lab_nodejs.md)
+9. Webpack
+10. [TypeScript](src/lab_ts.md)
+11. React
 
 
 ## Для тех, кому скучно, но интересно
