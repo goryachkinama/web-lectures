@@ -1,4 +1,4 @@
-# Лабораторная 3. Часть 1. Введение в JavaScript. Функции
+# Лабораторная 3. Часть 1. Введение в JavaScript
 
 ### [Введение в JavaScript](https://dmitryweiner.github.io/web-lectures/JS_part1.html#/)
 #### [Операторы и конструкции языка](https://dmitryweiner.github.io/web-lectures/JS_part1.html#/21)
