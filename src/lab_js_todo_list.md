@@ -16,3 +16,4 @@
 
 * Сохранять элементы в [localstorage](https://learn.javascript.ru/localstorage).
 * Реализовать возможность редактирования элементов.
+
