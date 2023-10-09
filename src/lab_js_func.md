@@ -1,9 +1,10 @@
 # Лабораторная 3. Часть 2. Функции в JavaScript
 
-### JavaScript
-#### Функции
-#### Rest...spread
+### [Функции в JavaScript](https://dmitryweiner.github.io/web-lectures/JS_part2.html#/)
+#### [Функции](https://dmitryweiner.github.io/web-lectures/JS_part2.html#/2)
+#### [Rest...spread](https://dmitryweiner.github.io/web-lectures/JS_part2.html#/8)
 
+---
 
 ### Задача 1
 
