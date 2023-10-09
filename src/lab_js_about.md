@@ -5,6 +5,7 @@
 #### [Типы данных](https://dmitryweiner.github.io/web-lectures/JS_part1.html#/18)
 #### [Среды выполнения](https://dmitryweiner.github.io/web-lectures/JS_part1.html#/7)
 
+---
 
 ### Задание 1. Работа с переменными
 
