@@ -1,12 +1,13 @@
 # Лабораторная 5. Часть 1. Асинхронный код в JavaScript
 
-### JavaScript
-#### Таймеры
-#### Асинхронный код
-#### async/await
-#### Обработка ошибок
-#### Запросы в сеть
+### [JavaScript и асинхронный код](https://dmitryweiner.github.io/web-lectures/JS_part5.html#/)
+#### [Таймеры](https://dmitryweiner.github.io/web-lectures/JS_part5.html#/3)
+#### [Асинхронный код](https://dmitryweiner.github.io/web-lectures/JS_part5.html#/14)
+#### [async/await](https://dmitryweiner.github.io/web-lectures/JS_part5.html#/24)
+#### [Обработка ошибок](https://dmitryweiner.github.io/web-lectures/JS_part5.html#/9)
+#### [Запросы в сеть](https://dmitryweiner.github.io/web-lectures/JS_part5.html#/29)
 
+---
 
 ### Задача 1
 
@@ -17,15 +18,11 @@
     * pause() -- приостанавливает счёт, но не сбрасывает счётчик.
     * stop() -- останавливает счёт, сбрасывает счётчик.
 
----
-
 ### Задача 2
 
 * Решить задачу со счётчиком `N, N-1 ... 2, 1, 0` через функцию `delay`.
 * Написать функцию, возвращающую название первого репозитория на github.com по имени пользователя
   (2 последовательных запроса: https://api.github.com/users/%USERNAME%).
-
----
 
 ### Задача 3
 
@@ -75,4 +72,3 @@ function getGithubUser() {
 getGithubUser();
 ```
 
----
