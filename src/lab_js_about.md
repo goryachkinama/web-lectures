@@ -1,9 +1,9 @@
 # Лабораторная 3. Часть 1. Введение в JavaScript. Функции
 
-### Введение в JavaScript
-#### Операторы и конструкции языка
-#### Типы данных
-#### Среды выполнения
+### [Введение в JavaScript](https://dmitryweiner.github.io/web-lectures/JS_part1.html#/)
+#### [Операторы и конструкции языка](https://dmitryweiner.github.io/web-lectures/JS_part1.html#/21)
+#### [Типы данных](https://dmitryweiner.github.io/web-lectures/JS_part1.html#/18)
+#### [Среды выполнения](https://dmitryweiner.github.io/web-lectures/JS_part1.html#/7)
 
 
 ### Задание 1. Работа с переменными
