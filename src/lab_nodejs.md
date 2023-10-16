@@ -1,4 +1,8 @@
-# Лабораторная. NodeJS
+# Задания по NodeJS
+
+### [NodeJS](https://dmitryweiner.github.io/web-lectures/Basic%20-%20Nodejs.html)
+
+---
 
 ### Задача 0
 
