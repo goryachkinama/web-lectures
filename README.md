@@ -34,7 +34,7 @@
 4. JavaScript: [массивы](src/lab_js_arr.md), [генераторы](src/lab_js_maths.md)
 5. JavaScript: [асинхронность](src/lab_js_async.md), [решение задач](src/lab_js.md)
 6. [JavaScript: оживляем todo-list](src/lab_js_todo_list.md)
-7. [Сборка проекта и установка зависимостей](src/lab_js_filter.md)
+7. [Сборка проекта и установка зависимостей](src/lab_webpack.md)
 8. [TypeScript](src/lab_ts.md)
 9. React
 
