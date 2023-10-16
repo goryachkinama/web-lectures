@@ -1,21 +1,27 @@
-# Лабораторная 7. Фильтрация и сортировка элементов
+# Лабораторная 7. Настройка инфраструктуры. Сборка проекта и установка зависимостей
 
-### [Javascript и работа с DOM. События](https://dmitryweiner.github.io/web-lectures/JS_part4.html#/)
-#### [Работа с DOM](https://dmitryweiner.github.io/web-lectures/JS_part4.html#/1)
-#### [События и обработчики](https://dmitryweiner.github.io/web-lectures/JS_part4.html#/15)
+### [NodeJS](https://dmitryweiner.github.io/web-lectures/JS_part4.html#/)
+### [NPM](https://dmitryweiner.github.io/web-lectures/Basic%20-%20NPM.html#/)
+### [Webpack](https://dmitryweiner.github.io/web-lectures/Basic%20-%20Webpack.html#/)
 
 ---
 
-### Задание по списку дел:
+### Задание по проекту TODO-list:
 
-* Сделать нажимаемыми ссылки внизу (нажимаешь, она становится жирной). Ссылки определяют режим фильтрации (все, сделанные, не сделанные).
-* Сделать фильтрацию списка в соответствии с выбранным режимом.
-* Добавить возможность сортировки по наименованию записи.
+1. Проверить и установить, если требуется NodeJS (проверить через "node -v" в терминале IDE)
+2. Сгенерить/создать package.json ("npm init -y")
+3. Поставить и удалить библиотеку lodash ("npm i lodash", "npm un lodash"): убедиться, что работает установка библиотек
+4. Поставить Webpack и создать webpack.config.js
+5. В package.json прописать скрипты для старта и сборки проекта:
+  "start": "webpack-dev-server --config webpack.config.js",
+  "build": "webpack --config webpack.config.js"
+6. Убедиться, что скрипты работают ("npm run start", "npm run build"), проект стартует на http://localhost:8080
+7. В файле .gitignore указать игнорируемые при коммите папки
 
 Опционально:
 
-* Сортировка по дате создания записи.
-
-Итог будет выглядеть вот так:
-
-![filter](../src/assets/lab_todo_js/filter.png)
+* Сделать разные Webpack-конфиги для продакшена и для разработки
+* Настроить минификацию JS и CSS
+* При запуске веб-сервера открывать окно браузера
+* [Задание по NodeJS](lab_nodejs.md)
+* [Задание по NPM](lab_npm.md)
