@@ -34,11 +34,9 @@
 4. JavaScript: [массивы](src/lab_js_arr.md), [генераторы](src/lab_js_maths.md)
 5. JavaScript: [асинхронность](src/lab_js_async.md), [решение задач](src/lab_js.md)
 6. [JavaScript: оживляем todo-list](src/lab_js_todo_list.md)
-7. [JavaScript: фильтрация и сортировка в todo-list](src/lab_js_filter.md)
-8. [NodeJS](src/lab_nodejs.md)
-9. Webpack
-10. [TypeScript](src/lab_ts.md)
-11. React
+7. [Сборка проекта и установка зависимостей](src/lab_js_filter.md)
+8. [TypeScript](src/lab_ts.md)
+9. React
 
 
 ## Для тех, кому скучно, но интересно
@@ -48,3 +46,6 @@
 * [Работа с API](src/api.md)
 * [Тестовое задание на фронта](src/test.md)
 * [Сохранение в ПДФ](src/pdf.md)
+* [JS: конвертер](src/lab_convert.md)
+* [NodeJS](src/lab_nodejs.md)
+* [NPM: библиотека для работы с массивами](src/lab_npm.md)
