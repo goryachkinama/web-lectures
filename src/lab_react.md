@@ -1,6 +1,6 @@
 # Лабораторная 9. Введение в React
 
-### [Введение в React](https://dmitryweiner.github.io/web-lectures/React%20-%20Basic.html#) 
+### [Введение в React](https://dmitryweiner.github.io/web-lectures/React%20-%20Basic.html) 
 
 ---
 
