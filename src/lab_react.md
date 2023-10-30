@@ -2,11 +2,12 @@
 
 ### [Введение в React](https://dmitryweiner.github.io/web-lectures/React%20-%20Basic.html#) 
 
+---
+
 ### Задача 0
 
 Настроить работу с React (с помощью скриптов либо через Webpack)
 
----
 
 ### Задача 1
 
