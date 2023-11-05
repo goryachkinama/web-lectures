@@ -15,13 +15,15 @@
 * [Webpack](https://dmitryweiner.github.io/web-lectures/Basic%20-%20Webpack.html#/)
 * [TypeScript](https://dmitryweiner.github.io/web-lectures/Basic%20-%20TypeScript.html)
 * [Введение во фреймворк React.js](https://dmitryweiner.github.io/web-lectures/React%20-%20Basic.html#/)
+   * [TypeScript + React](https://dmitryweiner.github.io/web-lectures/React%20-%20TypeScript%20with%20React.html#/)
    * [Функциональные компоненты и хуки](https://dmitryweiner.github.io/web-lectures/React%20-%20Hooks.html#/)
    * [Как работать с формами и контролами](https://dmitryweiner.github.io/web-lectures/React%20-%20Form%20controls.html#/)
    * [Запросы в сеть](https://dmitryweiner.github.io/web-lectures/React%20-%20Fetch.html#/)
-   * [TypeScript + React](https://dmitryweiner.github.io/web-lectures/React%20-%20TypeScript%20with%20React.html#/)
 * [Тестирование с помощью testing-library](https://dmitryweiner.github.io/web-lectures/React%20-%20Testing%20components.html#/)
 * [ESLint + Prettier + Husky](https://github.com/dmitryweiner/web-lectures/raw/main/old/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%20eslint%20prettier%20husky.pptx)
-* [Git](https://dmitryweiner.github.io/web-lectures/Basic%20-%20Git.html)
+* [*Git](https://dmitryweiner.github.io/web-lectures/Basic%20-%20Git.html)
+* [*Node.js + SQLite](https://dmitryweiner.github.io/web-lectures/SQLite.html)
+* *Основные принципы дизайна + CSS-препроцессоры
 
 # Лабораторные
 
@@ -162,6 +164,13 @@
 
 ---
 
-### 9. React  
+### 9. React: настройка и "Hello world"
+
+* Подключение и настройка работы с библиотекой
+* Задания и упражнения по React
+  
+---
+
+### 10. React:
 
 * TODO-list на React
