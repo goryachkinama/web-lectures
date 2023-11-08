@@ -25,6 +25,7 @@
 * [Лекция 14. ESLint + Prettier + Husky](https://github.com/dmitryweiner/web-lectures/raw/main/old/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%20eslint%20prettier%20husky.pptx)
 * [Лекция 15. Node.js + SQLite](https://dmitryweiner.github.io/web-lectures/SQLite.html)
 * [*Git](https://dmitryweiner.github.io/web-lectures/Basic%20-%20Git.html)
+* [* Как выкладывать сайт в интернет](https://dmitryweiner.github.io/web-lectures/Deploy.html#/)
 * *Основные принципы дизайна + CSS-препроцессоры
 
 # Лабораторные
