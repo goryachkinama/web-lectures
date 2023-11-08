@@ -14,7 +14,7 @@
 * [Лекция 6. NPM](https://dmitryweiner.github.io/web-lectures/Basic%20-%20NPM.html)
 * [Лекция 7. Webpack](https://dmitryweiner.github.io/web-lectures/Basic%20-%20Webpack.html)
 * [Лекция 8. TypeScript](https://dmitryweiner.github.io/web-lectures/Basic%20-%20TypeScript.html)
-* [Лекции 9-11. React.js]()
+* [Лекции 9-12. React.js]()
    * [Лекция 9. Введение во фреймворк React.js](https://dmitryweiner.github.io/web-lectures/React%20-%20Basic.html)
    * [Лекция 10. Функциональные компоненты и хуки](https://dmitryweiner.github.io/web-lectures/React%20-%20Hooks.html)
    * [Лекция 11. Запросы в сеть. ](https://dmitryweiner.github.io/web-lectures/React%20-%20Fetch.html)[Fetch](https://dmitryweiner.github.io/web-lectures/React%20-%20Network.html)
