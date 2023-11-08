@@ -1,28 +1,30 @@
 # Группы 007в, 007г
 # Программа курса
 
-* [HTML](https://dmitryweiner.github.io/web-lectures/Basic%20-%20HTML.html)
-* [CSS](https://dmitryweiner.github.io/web-lectures/Basic%20-%20CSS.html)
-* [JavaScript](https://dmitryweiner.github.io/web-lectures/Basic%20-%20JS.html)
-    * [Введение в язык JavaScript. Основы языка: синтаксис, управляющие конструкции.](https://dmitryweiner.github.io/web-lectures/JS_part1.html)
-    * [Функции. Rest...spread.](https://dmitryweiner.github.io/web-lectures/JS_part2.html)
-    * [Массивы.](https://dmitryweiner.github.io/web-lectures/JS_part3.html)
-    * [Работа с DOM. События.](https://dmitryweiner.github.io/web-lectures/JS_part4.html)
-    * [Асинхронный код. Обработка ошибок. HTTP-запросы.](https://dmitryweiner.github.io/web-lectures/JS_part5.html)
-    * [Map, Set. Даты. Работа с устройствами.](https://dmitryweiner.github.io/web-lectures/JS_part6.html)
-* [Node.js](https://dmitryweiner.github.io/web-lectures/Basic%20-%20Nodejs.html)
-* [NPM](https://dmitryweiner.github.io/web-lectures/Basic%20-%20NPM.html)
-* [Webpack](https://dmitryweiner.github.io/web-lectures/Basic%20-%20Webpack.html#/)
-* [TypeScript](https://dmitryweiner.github.io/web-lectures/Basic%20-%20TypeScript.html)
-* [Введение во фреймворк React.js](https://dmitryweiner.github.io/web-lectures/React%20-%20Basic.html#/)
-   * [TypeScript + React](https://dmitryweiner.github.io/web-lectures/React%20-%20TypeScript%20with%20React.html#/)
-   * [Функциональные компоненты и хуки](https://dmitryweiner.github.io/web-lectures/React%20-%20Hooks.html#/)
-   * [Как работать с формами и контролами](https://dmitryweiner.github.io/web-lectures/React%20-%20Form%20controls.html#/)
-   * [Запросы в сеть](https://dmitryweiner.github.io/web-lectures/React%20-%20Fetch.html#/)
-* [Тестирование с помощью testing-library](https://dmitryweiner.github.io/web-lectures/React%20-%20Testing%20components.html#/)
-* [ESLint + Prettier + Husky](https://github.com/dmitryweiner/web-lectures/raw/main/old/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%20eslint%20prettier%20husky.pptx)
+* [Лекция 1. HTML](https://dmitryweiner.github.io/web-lectures/Basic%20-%20HTML.html)
+* [Лекция 2. CSS](https://dmitryweiner.github.io/web-lectures/Basic%20-%20CSS.html)
+* [Лекции 3-5. JavaScript](https://dmitryweiner.github.io/web-lectures/Basic%20-%20JS.html)
+    * [Лекция 3. Введение в язык JavaScript. Основы языка: синтаксис, управляющие конструкции.](https://dmitryweiner.github.io/web-lectures/JS_part1.html)
+    * [Лекция 3. Функции. Rest...spread.](https://dmitryweiner.github.io/web-lectures/JS_part2.html)
+    * [Лекция 4. Массивы.](https://dmitryweiner.github.io/web-lectures/JS_part3.html)
+    * [Лекция 4. Map, Set. Даты. Работа с устройствами.](https://dmitryweiner.github.io/web-lectures/JS_part6.html)
+    * [Лекция 5. Работа с DOM. События.](https://dmitryweiner.github.io/web-lectures/JS_part4.html)
+    * [Лекция 5. Асинхронный код. Обработка ошибок. HTTP-запросы.](https://dmitryweiner.github.io/web-lectures/JS_part5.html)
+* [Лекция 6. Node.js](https://dmitryweiner.github.io/web-lectures/Basic%20-%20Nodejs.html)
+* [Лекция 6. NPM](https://dmitryweiner.github.io/web-lectures/Basic%20-%20NPM.html)
+* [Лекция 7. Webpack](https://dmitryweiner.github.io/web-lectures/Basic%20-%20Webpack.html)
+* [Лекция 8. TypeScript](https://dmitryweiner.github.io/web-lectures/Basic%20-%20TypeScript.html)
+* [Лекции 9-11. React.js]()
+   * [Лекция 9. Введение во фреймворк React.js](https://dmitryweiner.github.io/web-lectures/React%20-%20Basic.html)
+   * [Лекция 10. Функциональные компоненты и хуки](https://dmitryweiner.github.io/web-lectures/React%20-%20Hooks.html)
+   * [Лекция 11. Запросы в сеть. ](https://dmitryweiner.github.io/web-lectures/React%20-%20Fetch.html)[Fetch](https://dmitryweiner.github.io/web-lectures/React%20-%20Network.html)
+   * [Лекция 11. Запросы в сеть. React Query](https://dmitryweiner.github.io/web-lectures/React%20-%20Query.html)
+   * [Лекция 12. Как работать с формами и контролами](https://dmitryweiner.github.io/web-lectures/React%20-%20Form%20controls.html)
+   * [Лекция 12. TypeScript + React](https://dmitryweiner.github.io/web-lectures/React%20-%20TypeScript%20with%20React.html)
+* [Лекция 13. Тестирование с помощью testing-library](https://dmitryweiner.github.io/web-lectures/React%20-%20Testing%20components.html)
+* [Лекция 14. ESLint + Prettier + Husky](https://github.com/dmitryweiner/web-lectures/raw/main/old/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%20eslint%20prettier%20husky.pptx)
+* [Лекция 15. Node.js + SQLite](https://dmitryweiner.github.io/web-lectures/SQLite.html)
 * [*Git](https://dmitryweiner.github.io/web-lectures/Basic%20-%20Git.html)
-* [*Node.js + SQLite](https://dmitryweiner.github.io/web-lectures/SQLite.html)
 * *Основные принципы дизайна + CSS-препроцессоры
 
 # Лабораторные
@@ -32,7 +34,7 @@
 * Сверстать заготовку (некликабельный макет) будущего веб-приложения.
 * Проследить, что title страницы не пустой
 * Добавить favicon (картинка, отображающаяся на вкладке рядом с title'ом)
-* В процессе можно пользоваться [презентацией](https://dmitryweiner.github.io/web-lectures/Basic%20-%20HTML.html#/).
+* В процессе можно пользоваться [презентацией](https://dmitryweiner.github.io/web-lectures/Basic%20-%20HTML.html).
 * Результат закоммитить на гитхаб и прислать ссылку на проект.
 
 ![html](src/assets/lab_html/html_basic.png)
@@ -56,7 +58,7 @@
 * Добиться, чтобы при сужении окна кнопки "Добавить" и "Очистить всё" уходили под поле ввода текста. То же самое нужно будет проделать с режимами фильтрации, которые пригодятся позже.
 * Будет плюсом, если сам список можно будет прокручивать без прокручивания самой страницы.
 * Отображать фразу "Не найдено ни одного дела" строго по центру страницы для случая отсутствия элементов списка
-* В процессе можно пользоваться [презентацией](https://dmitryweiner.github.io/web-lectures/Basic%20-%20CSS.html#/).
+* В процессе можно пользоваться [презентацией](https://dmitryweiner.github.io/web-lectures/Basic%20-%20CSS.html).
 * Результат коммитить в тот же проект, что и предыдущее задание.
 
 ![css](src/assets/lab_css/css_basic.png)
@@ -164,13 +166,25 @@
 
 ---
 
-### 9. React: настройка и "Hello world"
+### [9. React: настройка и "Hello world"](src/lab_react.md)
 
 * Подключение и настройка работы с библиотекой
 * Задания и упражнения по React
   
 ---
 
-### 10. React:
+### [10. React: функциональные компоненты и хуки](src/lab_10_react_hooks.md)
+
+* Задания
+
+---
+
+### 11. React: работа с сетью
+
+---
+
+### 12. React + Typescript:
 
 * TODO-list на React
+
+---
