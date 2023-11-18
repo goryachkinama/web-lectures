@@ -1,8 +1,6 @@
 # Лабораторная работа 8. TypeScript
 
-* [Упражнения](https://typescript-exercises.github.io/#exercise=1&file=%2Findex.ts).
-
-* [Ещё упражнения](https://exercism.org/tracks/typescript/exercises).
+### [Презентация TypeScript](https://dmitryweiner.github.io/web-lectures/Basic%20-%20TypeScript.html) 
 ---
 
 ### Задача 1
@@ -40,3 +38,8 @@ users.forEach(logPerson);
 Переписать todo-list на Typescript
 
 ---
+
+* [Упражнения](https://typescript-exercises.github.io/#exercise=1&file=%2Findex.ts).
+
+* [Ещё упражнения](https://exercism.org/tracks/typescript/exercises).
+
