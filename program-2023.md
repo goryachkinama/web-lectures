@@ -30,7 +30,7 @@
 
 # Лабораторные
 
-### [1. HTML](src/lab_html.md)
+### [1. HTML](src/lab_1_html.md)
 
 * Сверстать заготовку (некликабельный макет) будущего веб-приложения.
 * Проследить, что title страницы не пустой
@@ -51,7 +51,7 @@
 
 ---
 
-### [2. CSS](src/lab_css.md)
+### [2. CSS](src/lab_2_css.md)
 
 * Написать стили для веб-приложения (раскрасить в указанные цвета и подключить шрифты стандартные либо от GoogleFonts).
 * Фон элементов списка должен меняться при наведении, иконки перекрашиваться, чтобы оставаться различимыми 
@@ -81,7 +81,7 @@
 
 ### 3. JavaScript: введение в синтаксис, функции
 
-[Часть 1. Введение в синтаксис:](src/lab_js_about.md)
+[Часть 1. Введение в синтаксис:](src/lab_3_js_about.md)
 
 * Задание 1. Работа с переменными
 * Задание 2. Исправьте сложение
@@ -90,7 +90,7 @@
 * Задание 5. Повторять цикл, пока ввод неверен
 * Задание 6. Простые числа
 
-[Часть 2. Функции:](src/lab_js_func.md)
+[Часть 2. Функции:](src/lab_3_js_func.md)
 
 * Задача 1
 * Задача 2
@@ -99,13 +99,13 @@
 
 ### 4. JavaScript: массивы, генераторы
 
-[Часть 1. Массивы:](https://github.com/goryachkinama/web-lectures/blob/main/src/lab_js_arr.md)
+[Часть 1. Массивы:](https://github.com/goryachkinama/web-lectures/blob/main/src/lab_4_js_arr.md)
 
 * Задача 1
 * Задача 2
 * Задача 3
 
-[Часть 2. Генераторы, математика, Map и Set в JavaScript:](https://github.com/goryachkinama/web-lectures/blob/main/src/lab_js_maths.md)
+[Часть 2. Генераторы, математика, Map и Set в JavaScript:](https://github.com/goryachkinama/web-lectures/blob/main/src/lab_4_js_maths.md)
 
 * Задача 1
 * Задача 2
@@ -114,19 +114,19 @@
 
 ### 5. JavaScript: асинхронность, решение задач
 
-[Часть 1. JavaScript и асинхронный код](https://github.com/goryachkinama/web-lectures/blob/main/src/lab_js_async.md)
+[Часть 1. JavaScript и асинхронный код](https://github.com/goryachkinama/web-lectures/blob/main/src/lab_5_js_async.md)
 
 * Задача 1
 * Задача 2
 * Задача 3
 
-[Часть 2. Решение задач](https://github.com/goryachkinama/web-lectures/blob/main/src/lab_js.md)
+[Часть 2. Решение задач](https://github.com/goryachkinama/web-lectures/blob/main/src/lab_5_js.md)
 
 * 10 задач
 
 ---
 
-### [6. Оживляем список дел: прикручиваем JS](src/lab_js_todo_list.md)
+### [6. Оживляем список дел: прикручиваем JS](src/lab_6_js_todo_list.md)
 
 * Реализовать возможность добавления новых элементов.
 * Реализовать возможность удаления элементов.
@@ -145,7 +145,7 @@
 
 ---
 
-### [7. Настройка инфраструктуры. Сборка проекта и установка зависимостей](src/lab_webpack.md)
+### [7. Настройка инфраструктуры. Сборка проекта и установка зависимостей](src/lab_7_webpack.md)
 
 * Добавить в проект TODO-list файл package.json
 * Поставить Webpack и создать webpack.config.js
@@ -160,14 +160,14 @@
 
 ---
 
-### [8. TypeScript](src/lab_ts.md)
+### [8. TypeScript](src/lab_8_ts.md)
 
 * Задания и упражнения по TypeScript
 * Переписать TODO-list на Typescript
 
 ---
 
-### [9. React: настройка и "Hello world"](src/lab_react.md)
+### [9. React: настройка и "Hello world"](src/lab_9_react.md)
 
 * Подключение и настройка работы с библиотекой
 * Задания и упражнения по React
@@ -180,11 +180,7 @@
 
 ---
 
-### 11. React: работа с сетью
-
----
-
-### 12. React + Typescript:
+### 11. React + Typescript:
 
 * TODO-list на React
 
