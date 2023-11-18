@@ -32,24 +32,24 @@
 
 ## Лабораторные
 
-1. [HTML](src/lab_html.md)
-2. [CSS](src/lab_css.md)
-3. JavaScript: [введение в синтаксис](src/lab_js_about.md), [функции](src/lab_js_func.md)
-4. JavaScript: [массивы](src/lab_js_arr.md), [генераторы](src/lab_js_maths.md)
-5. JavaScript: [асинхронность](src/lab_js_async.md), [решение задач](src/lab_js.md)
-6. [JavaScript: оживляем todo-list](src/lab_js_todo_list.md)
-7. [Сборка проекта и установка зависимостей](src/lab_webpack.md)
-8. [TypeScript](src/lab_ts.md)
-9. [React: настройка и "Hello world"](src/lab_react.md)
+1. [HTML](src/lab_1_html.md)
+2. [CSS](src/lab_2_css.md)
+3. JavaScript: [введение в синтаксис](src/lab_3_js_about.md), [функции](src/lab_3_js_func.md)
+4. JavaScript: [массивы](src/lab_4_js_arr.md), [генераторы](src/lab_4_js_maths.md)
+5. JavaScript: [асинхронность](src/lab_5_js_async.md), [решение задач](src/lab_5_js.md)
+6. [JavaScript: оживляем todo-list](src/lab_6_js_todo_list.md)
+7. [Сборка проекта и установка зависимостей](src/lab_7_webpack.md)
+8. [TypeScript](src/lab_8_ts.md)
+9. [React: настройка и "Hello world"](src/lab_9_react.md)
 10. [React: Функциональные компоненты и хуки](src/lab_10_react_hooks.md)
 
 ## Для тех, кому скучно, но интересно
 
 * JavaScript: задачи про [таймер](src/lab_timer.md) и [конвертер](src/lab_convert.md)
 * [Форум](https://github.com/dmitryweiner/web-lectures/blob/main/laba.md)
-* [Работа с API](src/api.md)
-* [Тестовое задание на фронта](src/test.md)
-* [Сохранение в ПДФ](src/pdf.md)
+* [Работа с API](src/adv_api.md)
+* [Тестовое задание на фронта](src/adv_test.md)
+* [Сохранение в ПДФ](src/adv_pdf.md)
 * [JS: конвертер](src/lab_convert.md)
-* [NodeJS](src/lab_nodejs.md)
-* [NPM: библиотека для работы с массивами](src/lab_npm.md)
+* [NodeJS](src/lab_7_nodejs.md)
+* [NPM: библиотека для работы с массивами](src/lab_7_npm.md)
