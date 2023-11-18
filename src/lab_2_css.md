@@ -1,6 +1,6 @@
 # Лабораторная 2. CSS
 
-### [CSS](https://dmitryweiner.github.io/web-lectures/CSS.html)
+### [Презентация по CSS](https://dmitryweiner.github.io/web-lectures/Basic%20-%20CSS.html)
 
 ### Обязательная часть
 
