@@ -15,11 +15,11 @@
    * [Лекция 8. Введение во фреймворк React.js](https://dmitryweiner.github.io/web-lectures/React%20-%20Basic.html)
    * [Лекция 8. Стили и картинки](https://dmitryweiner.github.io/web-lectures/React%20-%20Styles%20and%20assets.html#/)
    * [Лекция 9. Функциональные компоненты и хуки](https://dmitryweiner.github.io/web-lectures/React%20-%20Hooks.html)
-   * [Лекция 10. Запросы в сеть. Fetch](https://dmitryweiner.github.io/web-lectures/React%20-%20Network.html)
-   * [Лекция 10. Запросы в сеть. React Query](https://dmitryweiner.github.io/web-lectures/React%20-%20Query.html)
-   * [Лекция 10. Маршрутизация](https://dmitryweiner.github.io/web-lectures/React%20-%20Router.html)
-   * [Лекция 11. Как работать с формами и контролами](https://dmitryweiner.github.io/web-lectures/React%20-%20Form%20controls.html)
-   * [Лекция 11. Валидация форм](https://dmitryweiner.github.io/web-lectures/React%20-%20Form%20controls.html)
+   * [Лекция 10. Как работать с формами и контролами](https://dmitryweiner.github.io/web-lectures/React%20-%20Form%20controls.html)
+   * [Лекция 10. Валидация форм](https://dmitryweiner.github.io/web-lectures/React%20-%20Form%20controls.html)
+   * [Лекция 11. Запросы в сеть. Fetch](https://dmitryweiner.github.io/web-lectures/React%20-%20Network.html)
+   * [Лекция 11. Запросы в сеть. React Query](https://dmitryweiner.github.io/web-lectures/React%20-%20Query.html)
+   * [Лекция 11. Маршрутизация](https://dmitryweiner.github.io/web-lectures/React%20-%20Router.html)
    * [Лекция 12. TypeScript + React](https://dmitryweiner.github.io/web-lectures/React%20-%20TypeScript%20with%20React.html)
 * [Лекция 13. Тестирование с помощью testing-library](https://dmitryweiner.github.io/web-lectures/React%20-%20Testing%20components.html)
 * [Лекция 13. Тестирование запросов в сеть](https://dmitryweiner.github.io/web-lectures/React%20-%20Fetch.html)
@@ -61,16 +61,12 @@
 
 * ? Придумать на transition и анимацию (прозрачности?)
 
----
-
 ### [2. JavaScript: генераторы, математика, Map и Set](https://github.com/goryachkinama/web-lectures/blob/main/src/lab_4_js_maths.md)
 
 * Задача 1
 * Задача 2
 
 * ? Ещё из решения задач
-
----
 
 ### [3. Оживляем список дел: прикручиваем JS](src/lab_6_js_todo_list.md)
 
@@ -89,8 +85,6 @@
 
 ![filter](src/assets/lab_todo_js/filter.png)
 
----
-
 ### 4. JavaScript: асинхронность, решение задач
 
 [Часть 1. JavaScript и асинхронный код](src/lab_5_js_async.md)
@@ -102,8 +96,6 @@
 [Часть 2. Решение задач](src/lab_5_js.md)
 
 * ? 10 задач, мб рассортировать
-
----
 
 ### 5. NodeJS и NPM
 
@@ -118,8 +110,6 @@
 * Задача 1
 * Задача 2
 
----
-
 ### [6. Настройка инфраструктуры. Сборка проекта и установка зависимостей](src/lab_7_webpack.md)
 
 * Добавить в проект TODO-list файл package.json
@@ -133,55 +123,40 @@
 * При запуске веб-сервера открывать окно браузера
 * Потренироваться на задачах по NodeJS и NPM
 
----
-
 ### [7. TypeScript](src/lab_8_ts.md)
 
 * Задания и упражнения по TypeScript
 * Переписать TODO-list на Typescript
-
----
 
 ### [8. React: настройка и "Hello world"](src/lab_9_react.md)
 
 * Подключение и настройка работы с библиотекой
 * Задания и упражнения по React
 * ? Что-то добавить про картинки и стили
-  
----
 
 ### [9. React: функциональные компоненты и хуки](src/lab_10_react_hooks.md)
 
 * Задания (5 штук)
 
----
-
-### [10. React: запросы в сеть](src/lab_react_network.md)
-
-* Задания на fetch
-* Задания на React.query
-* Задания на маршрутизацию
-
----
-
-### [11. React: формы, контролы, валидация](src/lab_react_forms.md)
+### [10. React: формы, контролы, валидация](src/lab_react_forms.md)
 
 * Задание 1 на формы
 * Задание 2 на валидацию
 
----
+### [11. React: запросы в сеть](src/lab_react_network.md)
+
+* Задания на fetch
+* Задания на React.query
+* Задания на маршрутизацию
+* ? Много заданий получается, как разбить тему
 
 ### 12. React + Typescript:
 
 * TODO-list на React
 
----
-
 ### 13. Тестирование: react-testing-library
 
 * Какие-нибудь тесты написать
-
----
 
 # Аттестация
 
