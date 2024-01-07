@@ -10,7 +10,7 @@
 
 * Написать компонент, отображающий форму:
 ID:
-<inpit width="200px"/>
+<inpit style="width: 200px"/>
 <button text="Получить данные!"/>
 
 * При нажатии кнопки компонент обращается по адресу https://jsonplaceholder.typicode.com/posts/:id.
