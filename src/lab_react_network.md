@@ -42,6 +42,7 @@ ID: <inpit width="200px"/><button text="Получить данные!"/>
 ### Задача 3
 
 * Сделать роуты для [лабораторной](https://github.com/dmitryweiner/web-lectures/blob/main/laba.md):
+
 ** /login - <LoginForm />
 ** /registration - <RegistrationForm />
 ** / - <Home />
