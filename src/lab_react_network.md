@@ -43,9 +43,10 @@ ID: <inpit width="200px"/><button text="Получить данные!"/>
 
 * Сделать роуты для [лабораторной](https://github.com/dmitryweiner/web-lectures/blob/main/laba.md):
 
-** /login - <LoginForm />
-** /registration - <RegistrationForm />
-** / - <Home />
+/login - <LoginForm />
+/registration - <RegistrationForm />
+/ - <Home />
 
 * Формы можно взять из предыдущей лекции про [валидацию форм](https://dmitryweiner.github.io/web-lectures/React%20-%20Form%20validation.html).
+  
 * При вводе на форме логина значений admin/123 веб-приложение переходит на /.
