@@ -9,7 +9,9 @@
 ### Задача 1
 
 * Написать компонент, отображающий форму:
-ID: <inpit width="200px"/><button text="Получить данные!"/>
+ID:
+<inpit width="200px"/>
+<button text="Получить данные!"/>
 
 * При нажатии кнопки компонент обращается по адресу https://jsonplaceholder.typicode.com/posts/:id.
 
@@ -44,7 +46,9 @@ ID: <inpit width="200px"/><button text="Получить данные!"/>
 * Сделать роуты для [лабораторной](https://github.com/dmitryweiner/web-lectures/blob/main/laba.md):
 
 /login - \<LoginForm /\>
+
 /registration - \<RegistrationForm /\>
+
 / - \<Home /\>
 
 * Формы можно взять из предыдущей лекции про [валидацию форм](https://dmitryweiner.github.io/web-lectures/React%20-%20Form%20validation.html).
