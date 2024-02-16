@@ -68,9 +68,9 @@ f([]) -> 0
 
 ### React
 
-* Задачи про [таймер](src/lab_timer.md) и [конвертер](src/lab_convert.md)
+* Задачи про [таймер](lab_timer.md) и [конвертер](lab_convert.md)
 * [Форум](https://github.com/dmitryweiner/web-lectures/blob/main/laba.md)
-* [Работа с API](src/adv_api.md)
-* [Тестовое задание на фронта](src/adv_test.md)
-* [Сохранение в ПДФ](src/adv_pdf.md)
+* [Работа с API](adv_api.md)
+* [Тестовое задание на фронта](adv_test.md)
+* [Сохранение в ПДФ](adv_pdf.md)
 
