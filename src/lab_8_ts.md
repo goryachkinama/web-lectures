@@ -32,7 +32,7 @@ users.forEach(logPerson);
 ```
 ---
 
-### Задача 3
+### Задача 2
 
 Даны несколько заготовленных типов. При помощи них "собран" тип Student.
 Соберите типы Teacher и Director из имеющихся типов. Для проверки используйте
@@ -141,7 +141,56 @@ const d1: Director = {
 
 ---
 
-### Задача 2
+### Задача 3
+
+Использя generic-параметры, типизируйте функции,
+чтобы не было ошибок компиляции. Возможно, потребуется
+дописать типы в теле функции
+
+```ts
+function zip(first, second) {
+  const minLength = Math.min(first.length, second.length);
+  const result = [];
+  for (let i = 0; i < minLength; i++) {
+    result.push([first[i], second[i]])
+  }
+  return result
+}
+
+const q1: Array<[number, string]> = zip([1, 2, 3, 4, 5, 6], ["1", "2", "3"]);
+const q2: Array<[boolean, boolean]> = zip([true], [false, false]);
+console.log(q1, q2);
+
+function groupBy(source, keySelector, valueSelector) {
+  const result = new Map();
+  for (let i = 0; i < source.length; i++) {
+    const item = source[i];
+    const key = keySelector(item, i);
+    const value = valueSelector(item, i);
+    if (!result.has(key)) {
+      result.set(key, []);
+    }
+    result.get(key).push(value);
+  }
+
+  return result;
+}
+
+const q1: Map<number, number[]> = groupBy([1, 2, 3, 4], x => x % 2, x => x + 1);
+const q2: Map<boolean, {x: string, i: number}[]>  = groupBy(["aaa", "bbb", "cc", "q", "lalaka"], (_, i) => i%2 === 0, (x, i) => ({i, x}))
+console.log(q1, q2);
+
+```
+---
+
+### Задача 4
+
+На Utility Types c Omit из сторонней библиотеки
+C Raeadoly & ReturnType
+
+---
+
+### Задача 5
 
 Переписать todo-list на Typescript
 
