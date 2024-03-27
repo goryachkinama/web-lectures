@@ -185,7 +185,7 @@ console.log(q1, q2);
 
 ### Задача 4
 
-Соберите типы Teacher и Director из имеющихся типов, используя Pick, Omit, Exclude и при необходимости другие Utility Types.
+Соберите типы Teacher и Director из имеющихся типов, используя Partial, Pick, Omit, Exclude и при необходимости другие Utility Types.
 
 ```ts
 type User = {
@@ -209,7 +209,7 @@ type Course = {
 
 /* --- */
 
-type Student = User & { courses: { [id: number]: Omit<Course, role> & { role: Exclude<Role, "teacher">} } }
+type Student = User & { courses: { [id: number]: Omit<Course, "role"> & { role: Exclude<Role, "teacher">} } }
 
 type Teacher = User;
 
