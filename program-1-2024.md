@@ -32,9 +32,9 @@
    * [Лекция 16. Node.js + SQLite](https://dmitryweiner.github.io/web-lectures/SQLite.html)
    * [Лекция 17. Git](https://dmitryweiner.github.io/web-lectures/Basic%20-%20Git.html)
    * [Лекция 17. Как выкладывать сайт в интернет](https://dmitryweiner.github.io/web-lectures/Deploy.html#/)
-* [Лекция 18. Библиотеки готовых компонентов](https://dmitryweiner.github.io/web-lectures/React%20-%20Component%20libraries.html)
-* Лекция 19. Figma, основные принципы дизайна
-* Лекция 20. Другие фреймворки
+   * [Лекция 18. Библиотеки готовых компонентов](https://dmitryweiner.github.io/web-lectures/React%20-%20Component%20libraries.html)
+* Figma, основные принципы дизайна
+* Другие фреймворки
 
 # Лабораторные
 
