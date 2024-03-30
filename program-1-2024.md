@@ -2,17 +2,21 @@
  
 # Программа курса
 
-* [Лекция 1. CSS для продолжающих: блочная верстка (grid, flex), анимация](https://dmitryweiner.github.io/web-lectures/Basic%20-%20CSS.html)
-* [Лекции 2-3. JavaScript](https://dmitryweiner.github.io/web-lectures/Basic%20-%20JS.html)
+* CSS
+    * [Лекция 1. CSS для продолжающих: блочная верстка (grid, flex), анимация](https://dmitryweiner.github.io/web-lectures/Basic%20-%20CSS.html)
+* JavaScript
+    * [Лекция 2. Основы](https://dmitryweiner.github.io/web-lectures/Basic%20-%20JS.html)
     * [Лекция 2. Работа с DOM. События. Local Storage & Cookies](https://dmitryweiner.github.io/web-lectures/JS_part4.html)
     * [Лекция 3. Асинхронный код. Обработка ошибок. HTTP-запросы](https://dmitryweiner.github.io/web-lectures/JS_part5.html)
-* [Лекция 4. Node.js](https://dmitryweiner.github.io/web-lectures/Basic%20-%20Nodejs.html)
-* [Лекция 5. NPM](https://dmitryweiner.github.io/web-lectures/Basic%20-%20NPM.html)
-* [Лекция 5. Webpack](https://dmitryweiner.github.io/web-lectures/Basic%20-%20Webpack.html)
-* [Лекция 6. TypeScript](https://dmitryweiner.github.io/web-lectures/Basic%20-%20TypeScript.html)
-* [Лекции 7-11. React.js]()
+* Node.js и работа с библиотеками
+    * [Лекция 4. Node.js](https://dmitryweiner.github.io/web-lectures/Basic%20-%20Nodejs.html)
+    * [Лекция 5. NPM](https://dmitryweiner.github.io/web-lectures/Basic%20-%20NPM.html)
+    * [Лекция 5. Webpack](https://dmitryweiner.github.io/web-lectures/Basic%20-%20Webpack.html)
+* TypeScript
+    * [Лекция 6. TypeScript](https://dmitryweiner.github.io/web-lectures/Basic%20-%20TypeScript.html)
+* React.js
    * [Лекция 7. Введение во фреймворк React.js](https://dmitryweiner.github.io/web-lectures/React%20-%20Basic.html)
-   * [Лекция 8. Стили и картинки](https://dmitryweiner.github.io/web-lectures/React%20-%20Styles%20and%20assets.html#/)
+   * [Лекция 8. Стили, картинки и CSS-препроцессоры](https://dmitryweiner.github.io/web-lectures/React%20-%20Styles%20and%20assets.html#/)
    * [Лекция 9. Функциональные компоненты и хуки](https://dmitryweiner.github.io/web-lectures/React%20-%20Hooks.html)
    * [Лекция 10. Как работать с формами и контролами](https://dmitryweiner.github.io/web-lectures/React%20-%20Form%20controls.html)
    * [Лекция 10. Валидация форм](https://dmitryweiner.github.io/web-lectures/React%20-%20Form%20validation.html). [С библиотекой final-form](https://dmitryweiner.github.io/web-lectures/React%20-%20Final-form.html)
@@ -20,15 +24,17 @@
    * [Лекция 11. Запросы в сеть. React Query](https://dmitryweiner.github.io/web-lectures/React%20-%20Query.html)
    * [Лекция 12. Маршрутизация](https://dmitryweiner.github.io/web-lectures/React%20-%20Router.html)
    * [Лекция 13. TypeScript + React](https://dmitryweiner.github.io/web-lectures/React%20-%20TypeScript%20with%20React.html)
-* [Лекция 14. Тестирование с помощью testing-library](https://dmitryweiner.github.io/web-lectures/React%20-%20Testing%20components.html)
-* [Лекция 14. Тестирование запросов в сеть](https://dmitryweiner.github.io/web-lectures/React%20-%20Fetch.html)
-* [Лекция 15. ESLint + Prettier + Husky](https://github.com/dmitryweiner/web-lectures/raw/main/old/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%20eslint%20prettier%20husky.pptx)
-* [Лекция 16. Node.js + SQLite](https://dmitryweiner.github.io/web-lectures/SQLite.html)
-* [Лекция 17. Git](https://dmitryweiner.github.io/web-lectures/Basic%20-%20Git.html)
-* [Лекция 17. Как выкладывать сайт в интернет](https://dmitryweiner.github.io/web-lectures/Deploy.html#/)
-* Лекция 18. Основные принципы дизайна + CSS-препроцессоры
-* Лекция 19. Другие фреймворки
-* [Лекция 20. Библиотеки готовых компонентов](https://dmitryweiner.github.io/web-lectures/React%20-%20Component%20libraries.html)
+* Тестирование
+   * [Лекция 14. Тестирование с помощью testing-library](https://dmitryweiner.github.io/web-lectures/React%20-%20Testing%20components.html)
+   * [Лекция 14. Тестирование запросов в сеть](https://dmitryweiner.github.io/web-lectures/React%20-%20Fetch.html)
+* Прикладные инструменты
+   * [Лекция 15. ESLint + Prettier + Husky](https://github.com/dmitryweiner/web-lectures/raw/main/old/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%20eslint%20prettier%20husky.pptx)
+   * [Лекция 16. Node.js + SQLite](https://dmitryweiner.github.io/web-lectures/SQLite.html)
+   * [Лекция 17. Git](https://dmitryweiner.github.io/web-lectures/Basic%20-%20Git.html)
+   * [Лекция 17. Как выкладывать сайт в интернет](https://dmitryweiner.github.io/web-lectures/Deploy.html#/)
+* [Лекция 18. Библиотеки готовых компонентов](https://dmitryweiner.github.io/web-lectures/React%20-%20Component%20libraries.html)
+* Лекция 19. Figma, основные принципы дизайна
+* Лекция 20. Другие фреймворки
 
 # Лабораторные
 
