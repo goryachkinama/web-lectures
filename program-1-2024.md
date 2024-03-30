@@ -20,8 +20,7 @@
    * [Лекция 9. Функциональные компоненты и хуки](https://dmitryweiner.github.io/web-lectures/React%20-%20Hooks.html)
    * [Лекция 10. Как работать с формами и контролами](https://dmitryweiner.github.io/web-lectures/React%20-%20Form%20controls.html)
    * [Лекция 10. Валидация форм](https://dmitryweiner.github.io/web-lectures/React%20-%20Form%20validation.html). [С библиотекой final-form](https://dmitryweiner.github.io/web-lectures/React%20-%20Final-form.html)
-   * [Лекция 11. Запросы в сеть. Fetch](https://dmitryweiner.github.io/web-lectures/React%20-%20Network.html)
-   * [Лекция 11. Запросы в сеть. React Query](https://dmitryweiner.github.io/web-lectures/React%20-%20Query.html)
+   * [Лекция 11. Запросы в сеть. Fetch](https://dmitryweiner.github.io/web-lectures/React%20-%20Network.html). [React Query](https://dmitryweiner.github.io/web-lectures/React%20-%20Query.html)
    * [Лекция 12. Маршрутизация](https://dmitryweiner.github.io/web-lectures/React%20-%20Router.html)
    * [Лекция 13. TypeScript + React](https://dmitryweiner.github.io/web-lectures/React%20-%20TypeScript%20with%20React.html)
 * Тестирование
