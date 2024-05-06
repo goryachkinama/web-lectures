@@ -6,6 +6,25 @@
 
 ---
 
+
+### Задача 3
+
+* Сделать роуты для своих лабораторных по реакту (чтобы все странички с лабами открывались каждая по своему адресу)
+
+либо 
+
+* Сделать роуты для форм из прошлой лабораторной про  [валидацию форм](https://dmitryweiner.github.io/web-lectures/React%20-%20Form%20validation.html).
+
+/login - \<LoginForm /\>
+
+/registration - \<RegistrationForm /\>
+
+/ - \<Home /\>
+  
+* При вводе несуществующих адресов веб-приложение переходит на /.
+
+---
+
 ### Задача 1
 
 * Написать компонент, отображающий форму:
@@ -41,16 +60,3 @@ ID:
 
 ---
 
-### Задача 3
-
-* Сделать роуты для [лабораторной](https://github.com/dmitryweiner/web-lectures/blob/main/laba.md):
-
-/login - \<LoginForm /\>
-
-/registration - \<RegistrationForm /\>
-
-/ - \<Home /\>
-
-* Формы можно взять из предыдущей лекции про [валидацию форм](https://dmitryweiner.github.io/web-lectures/React%20-%20Form%20validation.html).
-  
-* При вводе на форме логина значений admin/123 веб-приложение переходит на /.
