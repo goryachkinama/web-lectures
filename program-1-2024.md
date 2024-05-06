@@ -18,8 +18,8 @@
    * [Лекция 8. Стили, картинки и CSS-препроцессоры](https://dmitryweiner.github.io/web-lectures/React%20-%20Styles%20and%20assets.html#/)
    * [Лекция 9. Функциональные компоненты и хуки](https://dmitryweiner.github.io/web-lectures/React%20-%20Hooks.html)
    * [Лекция 10. Формы и контролы](https://dmitryweiner.github.io/web-lectures/React%20-%20Form%20controls.html). [Валидация форм](https://dmitryweiner.github.io/web-lectures/React%20-%20Form%20validation.html). [Валидация с библиотекой final-form](https://dmitryweiner.github.io/web-lectures/React%20-%20Final-form.html)
-   * [Лекция 11. Запросы в сеть. Fetch](https://dmitryweiner.github.io/web-lectures/React%20-%20Network.html). [React Query](https://dmitryweiner.github.io/web-lectures/React%20-%20Query.html)
-   * [Лекция 12. Маршрутизация](https://dmitryweiner.github.io/web-lectures/React%20-%20Router.html)
+   * [Лекция 11. Маршрутизация](https://dmitryweiner.github.io/web-lectures/React%20-%20Router.html)
+   * [Лекция 12. Запросы в сеть. Fetch](https://dmitryweiner.github.io/web-lectures/React%20-%20Network.html). [React Query](https://dmitryweiner.github.io/web-lectures/React%20-%20Query.html)
    * [Лекция 13. TypeScript + React](https://dmitryweiner.github.io/web-lectures/React%20-%20TypeScript%20with%20React.html)
 * Тестирование
    * [Лекция 14. Тестирование с помощью testing-library](https://dmitryweiner.github.io/web-lectures/React%20-%20Testing%20components.html)
@@ -108,11 +108,11 @@
 * Задание 1 на формы
 * Задание 2 на валидацию
 
-### [10. React: запросы в сеть](src/lab_react_network.md)
+### [10. React: маршрутизация и запросы в сеть](src/lab_react_network.md)
 
+* Задания на маршрутизацию
 * Задания на fetch
 * Задания на React.query
-* Задания на маршрутизацию
 
 ### 11. React + Typescript:
 
