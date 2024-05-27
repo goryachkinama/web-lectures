@@ -1,8 +1,8 @@
 # Лабораторная. React: запросы в сеть и маршрутизация
 
+###  [React. Маршрутизация](https://dmitryweiner.github.io/web-lectures/React%20-%20Router.html)
 ###  [React. Запросы в сеть. Fetch](https://dmitryweiner.github.io/web-lectures/React%20-%20Network.html)
 ###  [React. Запросы в сеть. React Query](https://dmitryweiner.github.io/web-lectures/React%20-%20Query.html)
-###  [React. Маршрутизация](https://dmitryweiner.github.io/web-lectures/React%20-%20Router.html)
 
 ---
 
