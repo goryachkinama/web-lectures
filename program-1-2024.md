@@ -118,7 +118,7 @@
 
 * TODO-list на React
 
-### 12. Тестирование: react-testing-library
+### [12. Тестирование: react-testing-library](src/lab_test.md)
 
 * Написать тесты для своего веб-приложения (клиентской его части)
 
