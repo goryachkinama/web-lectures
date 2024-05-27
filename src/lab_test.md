@@ -1,7 +1,7 @@
 # Лабораторная. Тестирование
 
 ### [Тестирование с react-testing-library](https://dmitryweiner.github.io/web-lectures/React%20-%20Testing%20components.html)
-### [Тестирование запросов в сеть](https://dmitryweiner.github.io/web-lectures/React%20-%20Testing%20components.html)) 
+### [Тестирование запросов в сеть](https://dmitryweiner.github.io/web-lectures/React%20-%20Testing%20components.html)
 
 ---
 
