@@ -2,47 +2,39 @@
 
 ## [Программа для групп 007в, 007г](program-2023.md)
 ## [Программа для групп 107а, 107б, 107в, 107г, 2207са, 2207сб, 2207сг](program-1-2024.md)
+## [Программа для групп 107а, 107б, 107в, 107г, 2207са, 2207сб, 2207сг](program-2-2024.md)
 
-## Для начинающих: Введение во фронтенд (полугодовой)
-* [HTML](https://dmitryweiner.github.io/web-lectures/Basic%20-%20HTML.html)
-* [CSS](https://dmitryweiner.github.io/web-lectures/Basic%20-%20CSS.html)
-* [JavaScript](https://dmitryweiner.github.io/web-lectures/Basic%20-%20JS.html)
-  * [Введение в язык JavaScript. Основы языка: синтаксис, управляющие конструкции.](https://dmitryweiner.github.io/web-lectures/JS_part1.html)
-  * [Функции. Rest...spread.](https://dmitryweiner.github.io/web-lectures/JS_part2.html)
-  * [Массивы.](https://dmitryweiner.github.io/web-lectures/JS_part3.html)
-  * [Map, Set. Даты. Работа с устройствами.](https://dmitryweiner.github.io/web-lectures/JS_part6.html)
-  * [Работа с DOM. События.](https://dmitryweiner.github.io/web-lectures/JS_part4.html)
-  * [Асинхронный код. Обработка ошибок. HTTP-запросы.](https://dmitryweiner.github.io/web-lectures/JS_part5.html)
-* [Node.js](https://dmitryweiner.github.io/web-lectures/Basic%20-%20Nodejs.html)
-* [NPM](https://dmitryweiner.github.io/web-lectures/Basic%20-%20NPM.html)
-* [Webpack](https://dmitryweiner.github.io/web-lectures/Basic%20-%20Webpack.html#/)
-* [TypeScript](https://dmitryweiner.github.io/web-lectures/Basic%20-%20TypeScript.html)
-* [Введение во фреймворк React.js](https://dmitryweiner.github.io/web-lectures/React%20-%20Basic.html)
-   * [Функциональные компоненты и хуки](https://dmitryweiner.github.io/web-lectures/React%20-%20Hooks.html)
-   * [Запросы в сеть. ](https://dmitryweiner.github.io/web-lectures/React%20-%20Fetch.html)[Fetch](https://dmitryweiner.github.io/web-lectures/React%20-%20Network.html)
-   * [Запросы в сеть. React Query](https://dmitryweiner.github.io/web-lectures/React%20-%20Query.html)
-   * [Как работать с формами и контролами](https://dmitryweiner.github.io/web-lectures/React%20-%20Form%20controls.html)
-   * [TypeScript + React](https://dmitryweiner.github.io/web-lectures/React%20-%20TypeScript%20with%20React.html)
-* [Тестирование с помощью testing-library](https://dmitryweiner.github.io/web-lectures/React%20-%20Testing%20components.html)
-* [ESLint + Prettier + Husky](https://github.com/dmitryweiner/web-lectures/raw/main/old/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%20eslint%20prettier%20husky.pptx)
-* [Node.js + SQLite](https://dmitryweiner.github.io/web-lectures/SQLite.html)
-* [*Git](https://dmitryweiner.github.io/web-lectures/Basic%20-%20Git.html)
-* [*Как выкладывать сайт в интернет](https://dmitryweiner.github.io/web-lectures/Deploy.html#/)
-* *Основные принципы дизайна + CSS-препроцессоры
+# FAQ
 
+### Из чего складывается оценка?
 
-## Лабораторные
+- Оценка выставляется исходя из текущей успеваемости на семинарах и количества сданных вовремя работ. У каждого задания будет свой deadline, после которого отметка снижается
 
-1. [HTML](src/lab_1_html.md)
-2. [CSS](src/lab_2_css.md)
-3. JavaScript: [введение в синтаксис](src/lab_3_js_about.md), [функции](src/lab_3_js_func.md)
-4. JavaScript: [массивы](src/lab_4_js_arr.md), [генераторы](src/lab_4_js_maths.md)
-5. JavaScript: [асинхронность](src/lab_5_js_async.md), [решение задач](src/lab_5_js.md)
-6. [JavaScript: оживляем todo-list](src/lab_6_js_todo_list.md)
-7. [Сборка проекта и установка зависимостей](src/lab_7_webpack.md)
-8. [TypeScript](src/lab_8_ts.md)
-9. [React: настройка и "Hello world"](src/lab_9_react.md)
-10. [React: Функциональные компоненты и хуки](src/lab_10_react_hooks.md)
+### Я сделал дома, можно пришлю на почту, а вы посмотрите?
+
+- Работы сдаются лично преподавателю на занятии. Прислать можно, но сдавать придётся всё равно
+
+### Я залил на гит, можете посмотреть?
+
+- Несмотря на то, что работа с репозиторием приветствуется, для сдачи задания нужно будет его выкачать в классе и продемонстрировать, что всё работает
+
+### Я уже всё знаю и сделал TODOlist. Можно мне пойти?
+
+- Проверьте, пожалуйста, что из раздела [задач со звездочкой](src/adv.md) вы тоже всё сделали
+
+### Учитывается ли посещаемость?
+
+- Посещаемость - требование деканата и один из факторов, влияющих на повышение оценки. Поэтому, да, учитывается
+
+### Можно ли работать с другим фреймоворком?
+
+- Да, можно сдавать список дел не на React. Но работать всё должно аналогично
+
+### Не хочу заниматься фронтом и всю жизнь раскрашивать кнопочки. Можно мне пойти?
+
+- Решайте этот вопрос в индивидуальном порядке. Например, сдавайте минимум по фронтовой части и делайте упор на бэкенд либо на работу с API (это сложнее). Семинаристы в этом помогут, но будьте готовы к индивидуальным заданиям 
+
+---
 
 ## Для тех, кому скучно, но интересно
 
