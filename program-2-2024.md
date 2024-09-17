@@ -4,12 +4,13 @@
 
 * Чтобы всё вспомнить
    * Figma, основные принципы дизайна
-   * [Лекция. Библиотеки готовых компонентов](https://dmitryweiner.github.io/web-lectures/React%20-%20Component%20libraries.html)
+   * [Лекция 1. Библиотеки готовых компонентов](https://dmitryweiner.github.io/web-lectures/React%20-%20Component%20libraries.html)
 
 * Работа с сервером и API
+   * [Лекция 2. Вспоминаем NodeJS](https://dmitryweiner.github.io/web-lectures/Basic%20-%20Nodejs.html)
    * [Лекция. REST API: как устроено, простые соединения клиент-сервер, варианты прослоек](https://github.com/dmitryweiner/web-lectures/blob/main/old/%D0%98%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81%D1%8B/%D0%98%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81%D1%8B%20%D0%A1%D0%B5%D0%BC%D0%B8%D0%BD%D0%B0%D1%80%20React%20REST%20API.pptx)
    * Лекция. REST API: правила обработки запросов, красивый отказоустойчивый код
-   * [Лекция. Express.js](https://dmitryweiner.github.io/web-lectures/Express.html)
+   * [Лекция 3. Express.js](https://dmitryweiner.github.io/web-lectures/Express.html)
   
 * Работа с БД
    * Лекция. Фишечки и особенности SQLite
