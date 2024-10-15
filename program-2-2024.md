@@ -8,13 +8,14 @@
 
 * Работа с сервером и API
    * [Лекция 2. Вспоминаем NodeJS](https://dmitryweiner.github.io/web-lectures/Basic%20-%20Nodejs.html)
-   * [Лекция. REST API: как устроено, простые соединения клиент-сервер, варианты прослоек](https://github.com/dmitryweiner/web-lectures/blob/main/old/%D0%98%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81%D1%8B/%D0%98%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81%D1%8B%20%D0%A1%D0%B5%D0%BC%D0%B8%D0%BD%D0%B0%D1%80%20React%20REST%20API.pptx)
-   * Лекция. REST API: правила обработки запросов, красивый отказоустойчивый код
+   * [Лекция 4. REST API: как устроено, простые соединения клиент-сервер, варианты прослоек](https://github.com/dmitryweiner/web-lectures/blob/main/old/%D0%98%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81%D1%8B/%D0%98%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81%D1%8B%20%D0%A1%D0%B5%D0%BC%D0%B8%D0%BD%D0%B0%D1%80%20React%20REST%20API.pptx)
+   * Лекция 4. REST API: правила обработки запросов, красивый отказоустойчивый код
    * [Лекция 3. Express.js](https://dmitryweiner.github.io/web-lectures/Express.html)
   
 * Работа с БД
-   * Лекция. Фишечки и особенности SQLite
-   * [Лекция. Node.js + SQLite](https://dmitryweiner.github.io/web-lectures/SQLite.html)
+   * Лекция 5. Фишечки и особенности SQLite. [Sequelize на Metanit](https://metanit.com/web/nodejs/9.1.php)
+   * [Лекция 6. Node.js + SQLite](https://dmitryweiner.github.io/web-lectures/SQLite.html)
+   * [Лекция 7. Sequelize](https://dmitryweiner.github.io/web-lectures/Sequelize.html)
    * [Лекция. MongoDB](https://dmitryweiner.github.io/web-lectures/Mongo.html)
  
 * Продвинутый фронт
@@ -160,12 +161,12 @@
   
 ### Контрольная неделя #14
 
-* Теоретические темы:
-* Практика: 
+* Теоретические темы: библиотеки компонент, контекст в React, http-запросы, соединение с серверной частью
+* Практика: клиентская часть на библиотеке компонент, соединенная с серверной
 
 ### Зачетная неделя #19
 
-* Практика:
-* На зачет
+* Практика: тестирование клиентской части проекта
+* На зачет: законченный проект
 
 
