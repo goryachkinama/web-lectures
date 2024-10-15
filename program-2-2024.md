@@ -13,9 +13,9 @@
    * Лекция 4. REST API: правила обработки запросов, красивый отказоустойчивый код
   
 * Работа с БД
-   * Лекция 5. Фишечки и особенности SQLite. [Sequelize на Metanit](https://metanit.com/web/nodejs/9.1.php)
+   * Лекция 5. Фишечки и особенности SQLite.
    * [Лекция 6. Node.js + SQLite](https://dmitryweiner.github.io/web-lectures/SQLite.html)
-   * [Лекция 7. Sequelize](https://dmitryweiner.github.io/web-lectures/Sequelize.html)
+   * [Лекция 7. Sequelize.](https://dmitryweiner.github.io/web-lectures/Sequelize.html) [Sequelize на Metanit](https://metanit.com/web/nodejs/9.1.php)
    * [Лекция. MongoDB](https://dmitryweiner.github.io/web-lectures/Mongo.html)
  
 * Продвинутый фронт
