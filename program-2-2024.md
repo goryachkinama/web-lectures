@@ -15,7 +15,7 @@
 * Работа с БД
    * Лекция 5. Фишечки и особенности SQLite.
    * [Лекция 6. Node.js + SQLite](https://dmitryweiner.github.io/web-lectures/SQLite.html)
-   * [Лекция 7. Sequelize.](https://dmitryweiner.github.io/web-lectures/Sequelize.html) [Sequelize на Metanit](https://metanit.com/web/nodejs/9.1.php)
+   * [Лекция 7. Sequelize.](https://dmitryweiner.github.io/web-lectures/Sequelize.html) [Примеры работы в разных БД с Sequelize на Metanit](https://metanit.com/web/nodejs/9.1.php)
    * [Лекция. MongoDB](https://dmitryweiner.github.io/web-lectures/Mongo.html)
  
 * Продвинутый фронт
