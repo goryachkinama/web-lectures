@@ -26,13 +26,11 @@
    * Лекция 11. Работа с таблицами в библиотеке Ant.design: получение данных, фильтрация и сортировка
    * Лекция 12. Работа с модальными окнами, отображением сообщений Ant.design.
    * Лекция 12. [i18n многоязычность и локализация, useTranslate()](https://github.com/dmitryweiner/web-lectures/blob/main/old/%D0%98%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81%D1%8B/%D0%98%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81%D1%8B%20%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%20React%20i18n.pptx)
-   * Лекция. Reducer. Его комбинирование с контекстом. Работа с запросами в сеть
 
 * Прикладные инструменты
-   * [Лекция. ESLint + Prettier + Husky](https://github.com/dmitryweiner/web-lectures/raw/main/old/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%20eslint%20prettier%20husky.pptx)
-   * [Лекция. Git](https://dmitryweiner.github.io/web-lectures/Basic%20-%20Git.html)
-   * [Лекция. Как выкладывать сайт в интернет](https://dmitryweiner.github.io/web-lectures/Deploy.html)
-
+   * [Лекция 13. ESLint + Prettier + Husky](https://github.com/dmitryweiner/web-lectures/raw/main/old/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%20eslint%20prettier%20husky.pptx)
+   * [Лекция 13. Как выкладывать сайт в интернет](https://dmitryweiner.github.io/web-lectures/Deploy.html)
+   * [Лекция. Git (для самостоятельного изучения)](https://dmitryweiner.github.io/web-lectures/Basic%20-%20Git.html)
 
 
 Что вообще имеется из тем и материалов:
@@ -58,6 +56,7 @@
 
 * Кусочек Fullstack'а для профессионалов
    * [Оптимизация загрузки в React: lazy load, chunks]()
+   * Reducer. Его комбинирование с контекстом. Работа с запросами в сеть
    * [Анализ причин для рендера в React]()
    * [Анализ бандла в Webpack]()
    * [Рендер на сервере на примере фреймворка Next](https://github.com/dmitryweiner/web-lectures/blob/main/old/%D0%98%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81%D1%8B/%D0%98%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81%D1%8B%20%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%2016%20next.pptx)
