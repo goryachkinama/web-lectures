@@ -2,6 +2,8 @@
  
 # Программа курса
 
+## 1 семестр
+
 * HTML
     * [Лекция 1 - 2. Основы HTML](https://dmitryweiner.github.io/web-lectures/Basic%20-%20HTML.html)
 * CSS
@@ -31,6 +33,8 @@
 * Тестирование
     * [Лекция 18. Тестирование с помощью testing-library](https://dmitryweiner.github.io/web-lectures/React%20-%20Testing%20components.html)
     * [Лекция 18. Тестирование запросов в сеть](https://dmitryweiner.github.io/web-lectures/React%20-%20Fetch.html)
+
+## 1 семестр
 
 * Работа с сервером и API
    * [Лекция 1. Вспоминаем NodeJS](https://dmitryweiner.github.io/web-lectures/Basic%20-%20Nodejs.html)
