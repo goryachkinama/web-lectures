@@ -34,7 +34,7 @@
     * [Лекция 18. Тестирование с помощью testing-library](https://dmitryweiner.github.io/web-lectures/React%20-%20Testing%20components.html)
     * [Лекция 18. Тестирование запросов в сеть](https://dmitryweiner.github.io/web-lectures/React%20-%20Fetch.html)
 
-## 1 семестр
+## 2 семестр
 
 * Работа с сервером и API
    * [Лекция 1. Вспоминаем NodeJS](https://dmitryweiner.github.io/web-lectures/Basic%20-%20Nodejs.html)
@@ -67,6 +67,4 @@
 * Основные принципы дизайна
 * CSS-препроцессоры
 * Figma
-
-* 
 * Другие фреймворки
