@@ -8,6 +8,8 @@
 * В процессе можно пользоваться [презентацией](https://dmitryweiner.github.io/web-lectures/Basic%20-%20HTML.html#/).
 * Результат закоммитить на гитхаб и прислать ссылку на проект.
 
+---
+
 ![html](assets/lab_html/html_basic_2.png)
 
 ---
