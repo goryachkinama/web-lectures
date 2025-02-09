@@ -96,7 +96,7 @@
 
 ---
 
-### 3. JavaScript: введение в синтаксис, функции
+### 4. JavaScript: введение в синтаксис, функции
 
 [Часть 1. Введение в синтаксис:](src/lab_3_js_about.md)
 
@@ -112,7 +112,7 @@
 * Задача 1
 * Задача 2
 
-### 4. JavaScript: массивы, генераторы
+### 5. JavaScript: массивы, генераторы
 
 [Часть 1. Массивы:](https://github.com/goryachkinama/web-lectures/blob/main/src/lab_4_js_arr.md)
 
@@ -125,7 +125,7 @@
 * Задача 1
 * Задача 2
   
-### 5. JavaScript: асинхронность, решение задач
+### 6. JavaScript: асинхронность, решение задач
 
 [Часть 1. JavaScript и асинхронный код](https://github.com/goryachkinama/web-lectures/blob/main/src/lab_5_js_async.md)
 
@@ -137,7 +137,7 @@
 
 * 10 задач
 
-### [6. Оживляем список дел: прикручиваем JS](src/lab_6_js_todo_list.md)
+### [7. Оживляем список дел: прикручиваем JS](src/lab_6_js_todo_list.md)
 
 * Реализовать возможность добавления новых элементов.
 * Реализовать возможность удаления элементов.
@@ -151,8 +151,6 @@
 * Сохранять элементы в [localstorage](https://learn.javascript.ru/localstorage).
 * Реализовать возможность редактирования элементов.
 * Сортировка по дате создания записи.
-
-![filter](src/assets/lab_todo_js/filter.png)
 
 ---
 
