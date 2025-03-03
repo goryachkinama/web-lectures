@@ -64,7 +64,7 @@
    * [Лекция 15. Как выкладывать сайт в интернет](https://dmitryweiner.github.io/web-lectures/Deploy.html)
    * [Лекция 15. Git (для самостоятельного изучения)](https://dmitryweiner.github.io/web-lectures/Basic%20-%20Git.html)
 
-* Основные принципы дизайна
+* [Основные принципы дизайна](src/assets/%D0%94%D0%B8%D0%B7%D0%B0%D0%B8%CC%86%D0%BD_%D0%B4%D0%BB%D1%8F_%D0%9D%D0%95%D0%B4%D0%B8%D0%B7%D0%B0%D0%B8%CC%86%D0%BD%D0%B5%D1%80%D0%BE%D0%B2_%D0%A0%D0%BE%D0%B1%D0%B8%D0%BD_%D0%92%D0%B8%D0%BB%D1%8C%D1%8F%D0%BC%D1%81.pdf)
 * CSS-препроцессоры
 * Figma
 * Другие фреймворки
