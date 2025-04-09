@@ -125,19 +125,23 @@
 * Задача 1
 * Задача 2
   
-### 6. JavaScript: асинхронность, решение задач
+### 6. JavaScript: асинхронность, таймеры и промисы
 
-[Часть 1. JavaScript и асинхронный код](https://github.com/goryachkinama/web-lectures/blob/main/src/lab_5_js_async.md)
+[JavaScript и асинхронный код](https://github.com/goryachkinama/web-lectures/blob/main/src/lab_5_js_async.md)
 
 * Задача 1
 * Задача 2
 * Задача 3
 
-[Часть 2. Решение задач](https://github.com/goryachkinama/web-lectures/blob/main/src/lab_5_js.md)
+### 7. JavaScript: запросы в сеть, работа с DOM
 
-* 10 задач
+[Прогноз погоды](/src/lab_forecast.md)
 
-### [7. Оживляем список дел: прикручиваем JS](src/lab_6_js_todo_list.md)
+* Задание. Прогноз погоды
+
+### 8. JavaScript: работа с DOM, Local Storage и Cookies
+
+[Оживляем список дел: прикручиваем JS](src/lab_6_js_todo_list.md)
 
 * Реализовать возможность добавления новых элементов.
 * Реализовать возможность удаления элементов.
