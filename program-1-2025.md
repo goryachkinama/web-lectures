@@ -158,7 +158,7 @@
 
 ### 9. TypeScript
 
-[TypeScript](/src/lab_ts.md)
+[TypeScript](/src/lab_8_ts.md)
 
 * Задача 1
 * Задача 2
