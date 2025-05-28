@@ -74,6 +74,8 @@ f([]) -> 0
 * Змейка
 * Тетрис
 * Сайт погоды
+* Конвертер валют
+* Карта svg
 * [Форум](https://github.com/dmitryweiner/web-lectures/blob/main/laba.md)
 * [Работа с API](adv_api.md)
 * [Тестовое задание на фронта](adv_test.md)
