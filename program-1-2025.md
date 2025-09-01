@@ -49,7 +49,7 @@
    * Лекция 8. Подготовка клиентской части проекта: описание типов, [маршрутизация](https://dmitryweiner.github.io/web-lectures/React%20-%20Router.html), контекст в React
    * [Лекция 9. Библиотеки готовых компонентов](https://dmitryweiner.github.io/web-lectures/React%20-%20Component%20libraries.html)
    * Лекция 10. Разработка блока аутентификации: формы, запросы в сеть. 
-   * [Лекция 11. Валидация форм] (https://dmitryweiner.github.io/web-lectures/React%20-%20Form%20validation.html). [Валидация с библиотекой final-form](https://dmitryweiner.github.io/web-lectures/React%20-%20Final-form.html)
+   * [Лекция 11. Валидация форм](https://dmitryweiner.github.io/web-lectures/React%20-%20Form%20validation.html). [Валидация с библиотекой final-form](https://dmitryweiner.github.io/web-lectures/React%20-%20Final-form.html)
    * Лекция 12. Работа с выпадающими списками в библиотеке Ant.design
    * Лекция 13. Работа с таблицами в библиотеке Ant.design: получение данных, фильтрация и сортировка
    * Лекция 14. Работа с модальными окнами, отображением сообщений Ant.design.
