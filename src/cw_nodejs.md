@@ -6,7 +6,7 @@
 
 ### [Презентация по SQLite](https://dmitryweiner.github.io/web-lectures/SQLite.html)
 
-### [Проект с авторизацией](https://github.com/dmitryweiner/express-auth-example/tree/333f5400062315490e7470340d152ea3a671556a)
+### [Проект с авторизацией](https://github.com/goryachkinama/express-auth-example-simple)
 
 ### Задание до контрольной недели:
 
