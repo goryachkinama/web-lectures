@@ -15,7 +15,7 @@
 * Работа с БД
    * [Лекция 6. Особенности SQLite. Node.js + SQLite](https://dmitryweiner.github.io/web-lectures/SQLite.html)
    * [Лекция 7. Sequelize.](https://dmitryweiner.github.io/web-lectures/Sequelize.html) [Примеры работы в разных БД с Sequelize на Metanit](https://metanit.com/web/nodejs/9.1.php)
-   * [Лекция 7. TypeORM как пример при работе с Typescipt]
+   * Лекция 7. TypeORM как пример при работе с Typescipt
 
 * Продвинутый фронт
    * Лекция 8. Работа с REST API на клиенте. [Запросы в сеть. Fetch](https://dmitryweiner.github.io/web-lectures/React%20-%20Network.html). [Tanstack. React Query. Надстройки браузера для работы с запросами](https://dmitryweiner.github.io/web-lectures/React%20-%20Query.html)
