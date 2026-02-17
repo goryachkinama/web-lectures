@@ -41,7 +41,9 @@ overflow-y - по вертикали
 
 Для `::after` характерны следующие особенности:
 
-* При добавлении `::after` к блочному элементу, значение свойства `display` может быть только: `block`, `inline`, `none`, `marker`. Все остальные значения будут трактоваться как `block`.
+* При добавлении `::after` к блочному элементу,
+  значение свойства `display` может быть только: `block`, `inline`, `none`, `marker`.
+  Все остальные значения будут трактоваться как `block`.
 * При добавлении `::after` к встроенному элементу, `display` ограничен значениями `inline` и none. Все остальные будут восприниматься как `inline`.
 
 <h4>Синтаксис</h4>
@@ -55,8 +57,6 @@ overflow-y - по вертикали
   <div style="color: gray">html <span style="font-size: 200%">✔</span></div>
   <div style="color: gray">css <span style="font-size: 200%">✔</span></div>
   <div style="color: gray">js <span style="font-size: 200%">✔</span></div>
-
-
   
 ```html
 <html>
