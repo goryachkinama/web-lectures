@@ -34,3 +34,49 @@ overflow-y - по вертикали
 ```
 
 ---
+
+### Добавление псевдоэлемента
+
+Псевдоэлемент, который используется для вывода желаемого текста после содержимого элемента, к которому он добавляется. Псевдоэлемент ::after работает совместно со свойством content.
+
+Для `::after` характерны следующие особенности:
+
+* При добавлении `::after` к блочному элементу, значение свойства `display` может быть только: `block`, `inline`, `none`, `marker`. Все остальные значения будут трактоваться как `block`.
+* При добавлении `::after` к встроенному элементу, `display` ограничен значениями `inline` и none. Все остальные будут восприниматься как `inline`.
+
+<h4>Синтаксис</h4>
+
+```html
+элемент::after { content: "текст" }
+```
+
+<h4>Пример</h4>
+  
+  <div style="color: gray">html <span style="font-size: 200%">✔</span></div>
+  <div style="color: gray">css <span style="font-size: 200%">✔</span></div>
+  <div style="color: gray">js <span style="font-size: 200%">✔</span></div>
+
+
+  
+```html
+<html>
+ <head>
+  <meta charset="utf-8">
+  <title>Список дел</title>
+  <style>
+    div::after {
+      content: "✔"; /* Добавляемый текст: любые символы обязательно в кавычках */ 
+      font-size: 200%; /* Размер шрифта */ 
+      padding: 2px;
+    }
+  </style>
+ </head>
+ <body>
+  <div>html</div>
+  <div>css</div>
+  <div>js</div>
+ </body>
+</html>
+```
+
+---
