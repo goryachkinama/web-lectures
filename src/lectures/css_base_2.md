@@ -1,8 +1,3 @@
-overflow
-Псевдоэлементы content
-псевдоклассы для ссылок
- z-index
- шрифты
 
 ### Переполнение контейнера и [overflow]([http://htmlbook.ru/html/a](https://htmlbook.ru/css/overflow))
 
@@ -80,3 +75,72 @@ overflow-y - по вертикали
 ```
 
 ---
+
+### Псевдоклассы для ссылок
+
+При верстке ссылок и кнопок необходимо продумать их поведени и соответствующие цвета, которые задаются с помощью псевдоклассов:
+
+* Значения для ссылок:
+  * [**:hover**](https://htmlbook.ru/css/hover): стиль элемента при наведении на него курсора мыши, но при этом элемент еще не активирован, иными словами кнопка мыши не нажата.
+  * [**:active**](https://htmlbook.ru/css/active): стиль для активной ссылки, когда на нее нажали.
+  * [**:visited**](https://htmlbook.ru/css/visited): ссылки, уже посещённые пользователем.
+
+* Значения для элементов форм:
+  * [**:focus**](https://htmlbook.ru/css/focus) определяет стиль для элемента получающего фокус. Например, текстовое поле формы, в которое устанавливается курсор.
+  * [**:disabled**](https://htmlbook.ru/css/disabled) используется для применения стиля к заблокированным элементам форм. Такие элементы не могут получить фокус, быть нажатыми или активированы, в текстовых полях нельзя набирать текст.
+  * [**:checked**](https://htmlbook.ru/css/checked) применяется к элементам интерфейса, таким как переключатели (checkbox) и флажки (radio), когда они находятся в положение «включено». Переключение элементов в такое состояние происходит с помощью атрибута checked тега `<input>` или пользователем. 
+ 
+
+---
+### [z-index](https://htmlbook.ru/css/z-index)
+
+Если текст целиком не помещается и выходит за область заданных размеров, можно (и нужно) обрезать его и добавить многоточие:
+
+```html
+<style>
+   div {
+    overflow: hidden; /* Обрезаем текст*/
+    white-space: nowrap; /* Отменяем переносы текста на следующие строки*/
+    text-overflow: ellipsis; /* Добавляем многоточие при обрезке*/
+   } 
+</style>
+```
+
+---
+### Как добавить шрифты
+
+Шрифты удобнее всего брать у [Google Fonts](fonts.google.com)
+
+* Алгоритм:
+  * Ищем шрифт, доступный на заданном языке и начертании.
+  * Переходим на него.
+  * Убеждаемся, что он подойдет и кликаем на синюю кнопку "Get font".
+  * Кликаем на синюю кнопку "Get embed code" (чтобы использовать его на странице без скачивания).
+  * Копируем весь html ниже надписи "Embed code in the <head> of your html".
+  * Добавляем на страницу в блок `head`
+
+```html 
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=SN+Pro:ital,wght@0,200..900;1,200..900&display=swap" rel="stylesheet">
+```
+
+Добавляется сюда:
+
+```html
+<html>
+ <head>
+  <meta charset="utf-8">
+  <title>Список дел</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?   family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=SN+Pro:ital,wght@0,200..900;1,200..900&display=swap" rel="stylesheet">
+ </head>
+ <body>
+  ...
+ </body>
+</html>
+```
+
+---
+
