@@ -30,16 +30,16 @@
 ```jsx
 <Component temperature={-20} />
 ```
-![7-1](src/assets/exam/7-1.png)
+![7-1](assets/exam/7-1.png)
 ```jsx
 <Component temperature={36.6} />
 ```
-![7-2](src/assets/exam/7-2.png)
+![7-2](assets/exam/7-2.png)
 
 ### 5. Счётчик
 Реализовать счётчик нажатий на кнопку:
 
-![9](src/assets/exam/9.png)
+![9](assets/exam/9.png)
 
 Нажатий на кнопку: 42.
 
@@ -57,4 +57,4 @@
 />
 ```
 
-![11](src/assets/exam/11.png)
+![11](assets/exam/11.png)
