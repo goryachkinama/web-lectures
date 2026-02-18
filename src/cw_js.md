@@ -105,7 +105,7 @@ randomRange(5, 10) === 23 // ошибка
 
 15. Написать HTML и JS-код, который рисует кнопки "+" и "-" и значение, уменьшающееся или увеличивающееся при нажатии.
 
-    ![counter](src/labs/assets/programs/counter.png) 
+    ![counter](labs/assets/programs/counter.png) 
 
 16. Что выведет этот код? Как сделать так, чтобы он вывел 1, 2, 3?
 
