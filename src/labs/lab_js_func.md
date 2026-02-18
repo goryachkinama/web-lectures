@@ -1,4 +1,4 @@
-# Лабораторная 3. Часть 2. Функции в JavaScript
+# Лабораторная. Функции в JavaScript
 
 ### [Функции в JavaScript](https://dmitryweiner.github.io/web-lectures/JS_part2.html#/)
 #### [Функции](https://dmitryweiner.github.io/web-lectures/JS_part2.html#/2)
