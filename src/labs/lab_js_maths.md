@@ -1,4 +1,4 @@
-# Лабораторная 4. Часть 2. Генераторы, математика, Map и Set в JavaScript
+# Лабораторная. Генераторы, математика, Map и Set в JavaScript
 
 ### [JavaScript](https://dmitryweiner.github.io/web-lectures/JS_part6.html#/)
 #### [Генераторы](https://dmitryweiner.github.io/web-lectures/JS_part6.html#/1)
