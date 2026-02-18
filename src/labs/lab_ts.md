@@ -1,4 +1,4 @@
-# Лабораторная работа 8. TypeScript
+# Лабораторная работа. TypeScript
 
 ### [Презентация TypeScript](https://dmitryweiner.github.io/web-lectures/Basic%20-%20TypeScript.html) 
 ---
