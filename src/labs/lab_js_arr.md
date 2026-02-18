@@ -1,4 +1,4 @@
-# Лабораторная 4. Часть 1. Массивы в JavaScript
+# Лабораторная. Массивы в JavaScript
 
 ### [Массивы в JavaScript](https://dmitryweiner.github.io/web-lectures/JS_part3.html#/)
 #### [Массивы](https://dmitryweiner.github.io/web-lectures/JS_part3.html#/2)
