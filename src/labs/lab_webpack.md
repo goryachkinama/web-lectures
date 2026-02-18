@@ -1,4 +1,4 @@
-# Лабораторная 7. Настройка инфраструктуры. Сборка проекта и установка зависимостей
+# Лабораторная. Настройка инфраструктуры. Сборка проекта и установка зависимостей
 
 ### [NodeJS](https://dmitryweiner.github.io/web-lectures/Basic%20-%20Nodejs.html)
 ### [NPM](https://dmitryweiner.github.io/web-lectures/Basic%20-%20NPM.html#/)
