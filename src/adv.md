@@ -71,13 +71,25 @@ f([]) -> 0
 * Задачи про [таймер](lab_timer.md) и [конвертер](lab_convert.md)
 * Органайзер
 * Морской бой
+* Крестики-нолики
+* Судоку
+* Викторина
 * Змейка
 * Тетрис
 * Сайт погоды
 * Конвертер валют
 * Карта svg
+* Редактируемый список таймеров с кнопками старт/пауза, удалить
 * [Форум](https://github.com/dmitryweiner/web-lectures/blob/main/laba.md)
 * [Работа с API](adv_api.md)
 * [Тестовое задание на фронта](adv_test.md)
 * [Сохранение в ПДФ](adv_pdf.md)
+* Список астероидов, летящий к Земле
+* Комиксы (Марвел)
+* Кинопоиск
+* [Список рецептов еды](https://spoonacular.com/food-api/docs)
+* [Github](https://api.github.com/users/dmitryweiner)
+* [Google Books](https://www.googleapis.com/books/v1/volumes?maxResults=5&orderBy=relevance&q=oliver%20sacks)
+* [Fake users](https://randomuser.me/documentation)
+* [NASA](https://api.nasa.gov/)
 
