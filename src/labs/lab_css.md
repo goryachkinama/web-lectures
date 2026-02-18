@@ -1,4 +1,4 @@
-# Лабораторная 2. CSS
+# Лабораторная. CSS
 
 ### [Презентация по CSS](https://dmitryweiner.github.io/web-lectures/Basic%20-%20CSS.html)
 
