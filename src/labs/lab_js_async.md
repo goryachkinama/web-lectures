@@ -1,4 +1,4 @@
-# Лабораторная 5. Часть 1. Асинхронный код в JavaScript
+# Лабораторная. Асинхронный код в JavaScript
 
 ### [JavaScript и асинхронный код](https://dmitryweiner.github.io/web-lectures/JS_part5.html#/)
 #### [Таймеры](https://dmitryweiner.github.io/web-lectures/JS_part5.html#/3)
