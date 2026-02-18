@@ -24,4 +24,4 @@
 
 Итог будет выглядеть вот так:
 
-![filter](../src/assets/lab_todo_js/filter.png)
+![filter](assets/lab_todo_js/filter.png)
