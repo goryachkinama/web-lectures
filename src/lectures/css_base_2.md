@@ -1,5 +1,5 @@
 
-### Переполнение контейнера и [overflow]([http://htmlbook.ru/html/a](https://htmlbook.ru/css/overflow))
+### Переполнение контейнера и [overflow](https://htmlbook.ru/css/overflow)
 
 Свойство overflow управляет отображением содержания блочного элемента, если оно целиком не помещается и выходит за область заданных размеров. 
 
