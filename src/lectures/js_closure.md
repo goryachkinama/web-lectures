@@ -9,6 +9,17 @@ function createIncrementFunc() {
     }
 }
 
+// мгновенный вызов
+(createIncrementFunc())()
+
+function createIncrementFunc() {
+    let counter = 0;
+    return () => {
+        console.log(counter);
+        counter++;
+    }
+}
+
 const counter1 = createIncrementFunc();
 const counter2 = createIncrementFunc();
 counter1(); // 0
