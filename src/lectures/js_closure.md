@@ -52,4 +52,16 @@ counter11(); // 93
 counter22(); // 40
 counter22(); // 80
 counter22(); // 120
+
+const createIncrementFunc = (param1) => (param2) => {
+ let counter = param1
+ return () => {
+        console.log(counter);
+        counter = counter + param2;
+    }
+}
+
+const counter1 = createIncrementFunc(3)(30);
+const counter2 = createIncrementFunc(40)(40);
+
 ```
