@@ -14,9 +14,9 @@
     * [Лекция 6. Массивы](https://dmitryweiner.github.io/web-lectures/JS_part3.html)
     * [Лекция 6. Map, Set. Даты. Работа с устройствами](https://dmitryweiner.github.io/web-lectures/JS_part6.html)
     * [Лекция 7. Асинхронный код. Обработка ошибок. HTTP-запросы](https://dmitryweiner.github.io/web-lectures/JS_part5.html)
-* Node.js и работа с библиотеками
     * [Лекция 8. Работа с DOM. События и обработчики](https://dmitryweiner.github.io/web-lectures/JS_part4.html)
     * [Лекция 9. Хранение данных. Local Storage & Cookies](https://learn.javascript.ru/data-storage)
+* Node.js и работа с библиотеками
     * [Лекциb 10. Node.js](https://dmitryweiner.github.io/web-lectures/Basic%20-%20Nodejs.html)
     * [Лекция 11. NPM](https://dmitryweiner.github.io/web-lectures/Basic%20-%20NPM.html)
 * TypeScript
