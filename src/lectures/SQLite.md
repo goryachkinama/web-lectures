@@ -18,6 +18,7 @@ title: SQLite
 * [Документация](https://www.sqlite.org/docs.html), [rus](https://metanit.com/sql/sqlite/).
 * [Программа для работы с базой](https://sqlitebrowser.org/).
 * [Работа с базой онлайн](https://sqliteonline.com/).
+* [Открыть файл базы прямо в браузере](https://streams.dbconvert.com/sqlite-viewer) (файл не загружается на сервер, только чтение).
 ---
 
 ### Типы данных
