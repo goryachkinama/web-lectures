@@ -17,7 +17,7 @@
     * [Лекция 8. Работа с DOM. События и обработчики](https://dmitryweiner.github.io/web-lectures/JS_part4.html)
     * [Лекция 9. Хранение данных. Local Storage & Cookies](https://learn.javascript.ru/data-storage)
 * Node.js и работа с библиотеками
-    * [Лекциb 10. Node.js](https://dmitryweiner.github.io/web-lectures/Basic%20-%20Nodejs.html)
+    * [Лекция 10. Node.js](https://dmitryweiner.github.io/web-lectures/Basic%20-%20Nodejs.html)
     * [Лекция 11. NPM](https://dmitryweiner.github.io/web-lectures/Basic%20-%20NPM.html)
 * TypeScript
     * [Лекция 12-13. TypeScript](https://dmitryweiner.github.io/web-lectures/Basic%20-%20TypeScript.html)
